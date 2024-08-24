@@ -1,0 +1,9 @@
+La cytosine est l'une des quatre bases nucléiques que l'on retrouve dans l'ADN et l'ARN, les deux types d'acides nucléiques qui composent le matériel génétique des organismes vivants. La cytosine est une pyrimidine, ce qui signifie qu'elle est composée d'un cycle aromatique à six chaînons contenant quatre atomes d'azote et deux atomes de carbone.
+
+Dans l'ADN, la cytosine s'apparie spécifiquement avec la guanine par des liaisons hydrogène pour former ce qu'on appelle une paire de base. Cette complémentarité des bases entre cytosine et guanine est essentielle pour la structure en double hélice de l'ADN, et joue un rôle crucial dans la réplication de l'ADN et la transmission de l'information génétique lors de la division cellulaire.
+
+En plus de son rôle dans l'ADN, la cytosine est également présente dans l'ARN, où elle participe à la synthèse des protéines en tant que composant des codons. Les codons sont des séquences de trois bases nucléiques qui spécifient l'incorporation d'un acide aminé particulier dans la séquence protéique en cours de synthèse.
+
+Il est important de noter que la cytosine peut subir des modifications épigénétiques, telles que la méthylation, qui peuvent affecter l'expression des gènes et jouer un rôle dans la régulation de l'activité des gènes. Ces modifications de la cytosine peuvent avoir des implications importantes pour le développement, la différenciation cellulaire et divers processus biologiques.
+
+En résumé, la cytosine est une base nucléique fondamentale qui joue un rôle crucial dans la structure et la fonction de l'ADN et de l'ARN, ainsi que dans la régulation de l'expression des gènes. Son appariement spécifique avec la guanine et ses capacités de modification épigénétique en font une molécule clé dans la compréhension de la biologie moléculaire et de la génétique.

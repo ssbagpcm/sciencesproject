@@ -1,0 +1,7 @@
+La néoglucogenèse est un processus biochimique complexe au cours duquel des molécules non-glucidiques, telles que des acides aminés, des glycérol et des acides gras, sont converties en glucose. Ce processus se déroule principalement dans le foie et, dans une moindre mesure, dans les reins.
+
+La néoglucogenèse est un mécanisme vital pour l'organisme car il permet de maintenir des niveaux adéquats de glucose dans le sang, particulièrement lors de périodes de jeûne prolongé ou de faible apport en glucides. En effet, le glucose est la principale source d'énergie pour les cellules, en particulier pour le cerveau et les globules rouges, qui en dépendent exclusivement.
+
+Le processus de néoglucogenèse est régulé par plusieurs hormones, en particulier l'insuline et le glucagon. L'insuline, sécrétée par le pancréas en réponse à une augmentation de la glycémie, inhibe la néoglucogenèse en favorisant le stockage du glucose sous forme de glycogène. À l'inverse, le glucagon, également sécrété par le pancréas mais en réponse à une baisse de la glycémie, stimule la néoglucogenèse en favorisant la dégradation des réserves de glycogène et en activant les enzymes impliquées dans le processus.
+
+En résumé, la néoglucogenèse est un processus métabolique essentiel pour assurer un apport constant de glucose au sein de l'organisme, en particulier lors de situations de jeûne ou de besoins accrus en énergie. Son équilibre est finement régulé par divers signaux hormonaux afin de maintenir une homéostasie glycémique optimale.

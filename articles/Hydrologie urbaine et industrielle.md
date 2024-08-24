@@ -1,0 +1,7 @@
+L'hydrologie urbaine et industrielle est une branche de l'hydrologie qui se concentre sur l'étude des phénomènes liés à l'eau dans les environnements urbains et industriels. Cette discipline s'intéresse notamment à la gestion des eaux pluviales, à la gestion des eaux usées et à la protection des ressources en eau dans ces contextes spécifiques.
+
+Dans un environnement urbain, l'hydrologie urbaine examine la manière dont les surfaces imperméables telles que les routes, les parkings et les toits influencent le ruissellement des eaux de pluie et les risques d'inondations. Elle s'intéresse également aux solutions d'infrastructures vertes comme les jardins pluviaux ou les toits végétalisés pour favoriser l'infiltration des eaux de pluie et limiter les débordements des réseaux d'assainissement.
+
+Du côté industriel, l'hydrologie étudie l'impact des activités industrielles sur la qualité de l'eau et les écosystèmes aquatiques. Elle se penche sur les rejets d'eaux usées des installations industrielles, les risques de pollution et les mesures de prévention à mettre en place pour limiter l'impact sur l'environnement.
+
+En résumé, l'hydrologie urbaine et industrielle vise à comprendre les interactions complexes entre l'eau, les activités humaines et l'environnement bâti, afin de proposer des solutions durables pour une gestion équilibrée des ressources en eau et une protection de la qualité de l'eau dans ces contextes spécifiques.

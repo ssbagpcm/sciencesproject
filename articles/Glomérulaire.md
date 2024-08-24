@@ -1,0 +1,7 @@
+Le glomérulaire est une structure anatomique importante dans le rein, plus précisément dans les néphrons qui sont les unités fonctionnelles des reins. Il s'agit d'un amas de capillaires sanguins en forme de glomérule entouré par une capsule appelée capsule de Bowman. Le glomérulaire est le site où se déroule la première étape de la filtration du sang pour former l'urine.
+
+Lorsque le sang arrive dans les capillaires du glomérulaire, une pression hydrostatique élevée permet le passage de l'eau, des électrolytes et des petites molécules à travers la paroi des capillaires dans l'espace de Bowman. C'est à ce niveau que se forme le filtrat glomérulaire, qui contient les déchets et les substances à éliminer du corps.
+
+Le glomérulaire joue ainsi un rôle crucial dans la régulation de la composition chimique du sang en filtrant les déchets métaboliques et en conservant les substances nécessaires à l'organisme. Les cellules spécialisées du glomérulaire, appelées podocytes, contribuent à la perméabilité sélective de la membrane filtrante, permettant ainsi le passage des molécules essentielles tout en retenant les grosses protéines et les cellules sanguines.
+
+En résumé, le glomérulaire est une structure clé du rein qui assure la filtration du sang et la formation de l'urine, tout en participant activement à l'équilibre des fluides et des électrolytes dans l'organisme. Son bon fonctionnement est essentiel pour maintenir l'homéostasie et la santé globale du corps.

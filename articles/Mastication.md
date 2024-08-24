@@ -1,0 +1,7 @@
+La mastication est le processus par lequel les aliments sont broyés et mélangés dans la bouche à l'aide des dents et de la langue afin de les préparer à la digestion. C'est une étape essentielle du processus de digestion, car elle permet de réduire les aliments en petites particules plus faciles à avaler et à digérer. 
+
+Lorsque nous mastiquons, nos dents coupent, écrasent et broient les aliments en morceaux plus petits, tandis que notre langue les déplace dans la bouche pour les mélanger à la salive. La salive contient des enzymes qui commencent à décomposer les glucides contenus dans les aliments, ce qui facilite encore plus le processus de digestion.
+
+Un aspect important de la mastication est qu'elle stimule également la production de salive, ce qui est crucial pour une bonne digestion. En plus de commencer à décomposer les aliments, la salive aide à lubrifier les aliments pour qu'ils puissent être avalés plus facilement.
+
+En résumé, la mastication est un processus nécessaire pour fragmenter les aliments, les mélanger à la salive et les préparer à la digestion. Elle joue un rôle crucial dans l'efficacité de notre système digestif et dans notre capacité à absorber les nutriments essentiels à notre santé et notre bien-être.

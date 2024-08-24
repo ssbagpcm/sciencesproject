@@ -1,0 +1,9 @@
+**Le virus Ebola** est un virus mortel qui provoque une maladie grave chez les humains et les primates non humains. Il a été identifié pour la première fois en 1976 lors de deux épidémies simultanées en République démocratique du Congo et au Soudan. Le virus tire son nom de la rivière Ebola, située près du lieu de la première épidémie en République démocratique du Congo.
+
+Le virus Ebola appartient à la famille des Filoviridae et aux genres Ebolavirus. Il existe cinq espèces de virus Ebola, dont quatre sont connues pour causer la maladie chez l'homme. Ces espèces sont le virus Ebola-Zaïre, le virus Ebola-Soudan, le virus Ebola-Bundibugyo et le virus Ebola-Forêt de Taï. Le virus Ebola-Reston est la cinquième espèce, qui a été identifiée chez les singes, mais n'a pas causé de maladie chez l'homme.
+
+La maladie causée par le virus Ebola est connue sous le nom de fièvre hémorragique Ebola. Les symptômes de la maladie comprennent de la fièvre, des maux de tête, des douleurs musculaires, des maux de gorge, des vomissements, de la diarrhée, des éruptions cutanées, des symptômes de type grippal et, dans certains cas, des saignements internes et externes. La maladie peut être mortelle dans un pourcentage élevé de cas.
+
+Le virus Ebola se propage par contact direct avec le sang, les liquides biologiques ou les tissus de personnes infectées ou d'animaux sauvages infectés. Les épidémies de virus Ebola sont souvent associées à la transmission dans les établissements de soins de santé, où le personnel médical est exposé à des patients infectés sans utiliser de mesures de protection appropriées.
+
+Les mesures de prévention et de contrôle des infections, telles que l'isolement des patients infectés, l'utilisation d'équipements de protection individuelle, la pratique de l'hygiène des mains et la surveillance étroite des contacts, sont

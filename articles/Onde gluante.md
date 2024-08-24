@@ -1,0 +1,5 @@
+Je n'ai pas de référence claire à une "Onde gluante" (ou "Glue wave" en anglais) dans les domaines de la physique, de la chimie, de la biologie, ou d'autres sciences traditionnelles. Cela pourrait être un terme inventé, une métaphore, ou un concept propre à un contexte spécifique comme un jeu, une œuvre de fiction, ou une discipline spécialisée.
+
+Si vous avez un contexte ou des détails supplémentaires concernant ce terme, je pourrais essayer de vous aider à clarifier ce qu'il pourrait signifier ou à fournir une interprétation. Par exemple, s'il s'agit d'un terme utilisé dans un film, un jeu vidéo, ou un livre, cela pourrait représenter un élément narratif ou une caractéristique du monde imaginaire. Si c'est un concept technique, le contexte dans lequel il est utilisé pourrait éclairer sa signification.
+
+Dans tous les cas, j'aimerais vous aider à comprendre ce que vous recherchez, donc n'hésitez pas à fournir davantage d'informations ou de contexte pour que je puisse vous donner une réponse plus précise et pertinente.

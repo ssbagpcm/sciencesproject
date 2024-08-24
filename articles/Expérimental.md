@@ -1,0 +1,7 @@
+L'expérimental est un courant artistique qui explore de nouvelles voies créatives, en expérimentant avec des techniques, des concepts et des formes qui sortent des normes et des conventions établies. Il peut s'agir de mettre en avant des procédés inédits, d'utiliser des mélanges de différentes disciplines artistiques, de remettre en question les codes esthétiques traditionnels, ou encore de jouer avec la perception du spectateur. 
+
+Ce courant artistique est souvent associé à une forme de liberté totale dans l'expression artistique, où la créativité est au centre de la démarche. Les artistes expérimentaux cherchent à repousser les limites de l'art, à provoquer des émotions et des réflexions nouvelles, à briser les conventions établies et à ouvrir de nouveaux horizons artistiques. 
+
+L'expérimental peut prendre différentes formes dans les domaines de l'art visuel, de la musique, du cinéma, de la littérature, de la danse, de la performance, etc. Il peut être difficile à définir de manière précise, car il est en constante évolution et se renouvelle en permanence grâce à l'imagination et à l'audace des artistes qui s'y confrontent. 
+
+En somme, l'expérimental est une exploration constante et innovante de l'art, qui vise à défier les conventions, à susciter l'émerveillement, et à repousser les frontières de la créativité.

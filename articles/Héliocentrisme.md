@@ -1,0 +1,7 @@
+L'héliocentrisme est un modèle astronomique qui place le Soleil au centre de notre système solaire, avec les planètes orbitant autour de lui. Ce concept diffère de l'ancien modèle géocentrique, qui positionnait la Terre au centre de l'univers. L'héliocentrisme a été largement popularisé par Nicolas Copernic au XVIe siècle, puis confirmé et développé par d'autres scientifiques comme Galilée et Kepler.
+
+L'idée principale de l'héliocentrisme est que les mouvements observés des planètes peuvent être expliqués de manière plus simple en considérant que celles-ci tournent autour du Soleil, et non autour de la Terre. Ce changement de perspective a révolutionné notre compréhension de l'univers et a ouvert la voie à la révolution scientifique de la Renaissance.
+
+L'héliocentrisme a également jeté les bases de l'astronomie moderne en permettant des prévisions plus précises des mouvements célestes et en montrant que la Terre n'occupe pas une place privilégiée dans l'univers. Ce modèle a également conduit à la remise en question de certaines croyances religieuses et philosophiques de l'époque, provocant parfois des controverses avec les autorités de l'Église.
+
+Aujourd'hui, l'héliocentrisme est largement accepté comme le modèle dominant de notre système solaire, et il forme la base de nombreuses recherches en astronomie et en astrophysique. Il reste un élément fondamental de notre compréhension de l'univers et de notre place en son sein.

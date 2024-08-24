@@ -1,0 +1,7 @@
+Une sous-unité est une entité ou une composante d'un ensemble plus vaste ou d'une structure hiérarchique qui possède ses propres caractéristiques distinctives et fonctions spécifiques. Dans divers domaines, incluant la biologie, la chimie, la physique, l'économie, la linguistique et bien d'autres, le concept de sous-unité est fréquemment utilisé pour désigner des éléments constitutifs d'un système plus large.
+
+En biologie, par exemple, une sous-unité peut faire référence à une partie d'une protéine, d'un organisme ou d'un organe qui possède ses propres propriétés distinctes et qui contribue au fonctionnement global de l'ensemble. En chimie, une sous-unité peut être un atome, un groupe d'atomes ou une molécule qui compose une substance chimique plus complexe.
+
+Dans un contexte plus général, une sous-unité peut également désigner une division ou une subdivision d'une organisation, d'une entreprise ou d'une structure sociale. Par exemple, dans une entreprise, les différents départements ou équipes peuvent être considérés comme des sous-unités qui contribuent à l'activité globale de l'organisation.
+
+En résumé, une sous-unité est un élément constituif, distinct et fonctionnel d'un ensemble ou d'une structure plus vaste, qui peut être étudié et analysé indépendamment tout en contribuant à l'ensemble dans lequel il s'inscrit.

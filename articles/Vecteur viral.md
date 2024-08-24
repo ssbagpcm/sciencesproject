@@ -1,0 +1,9 @@
+**Un vecteur viral** est un outil génétique utilisé en biologie moléculaire pour introduire de l'ADN étranger dans une cellule hôte. Les vecteurs viraux sont généralement des virus qui ont été modifiés pour être inoffensifs tout en conservant leur capacité à infecter les cellules. Ces vecteurs sont couramment utilisés en recherche scientifique et en thérapie génique.
+
+Les vecteurs viraux peuvent être utilisés pour étudier le fonctionnement des gènes en introduisant des séquences d'ADN spécifiques dans les cellules et en observant les effets sur leur fonctionnement. Ils sont également utilisés dans la production de protéines recombinantes, où un gène codant pour une protéine d'intérêt est inséré dans le vecteur viral, qui est ensuite utilisé pour infecter des cellules hôtes qui produisent la protéine en grande quantité.
+
+En thérapie génique, les vecteurs viraux peuvent être utilisés pour introduire des gènes correctifs ou thérapeutiques dans les cellules d'un patient atteint d'une maladie génétique. Par exemple, un vecteur viral peut être utilisé pour transporter un gène sain dans les cellules d'un patient souffrant d'une déficience génétique, permettant ainsi de corriger le défaut génétique et de traiter la maladie.
+
+Il existe différents types de vecteurs viraux, tels que les rétrovirus, les adénovirus et les lentivirus, chacun ayant ses propres avantages et inconvénients en termes de capacité à transmettre efficacement l'ADN étranger dans les cellules hôtes. Les chercheurs doivent choisir le vecteur viral le plus approprié en fonction de l'objectif de leur étude ou de leur traitement.
+
+En résumé, les vecteurs viraux sont des outils puissants en biologie moléculaire et en thérapie génique, permettant d'étudier les gènes, de produire des protéines recombinantes et de traiter certaines maladies génétiques en introduisant des gènes thérapeutiques dans les cellules hôtes.

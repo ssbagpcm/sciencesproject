@@ -1,0 +1,7 @@
+L'électrorétinographie (ERG) est une technique utilisée en ophtalmologie pour évaluer l'activité électrique de la rétine, la fine membrane sensible à la lumière située à l'arrière de l'œil. L'ERG est un test non invasif qui permet d'analyser le fonctionnement des cellules photoréceptrices de la rétine, appelées bâtonnets et cônes.
+
+Pendant un examen d'électrorétinographie, des électrodes sont placées sur la surface externe de l’œil pour enregistrer l'activité électrique générée en réponse à des stimuli lumineux. Le patient est généralement dans une pièce sombre afin de maximiser la réponse de la rétine à la lumière.
+
+L'ERG peut être utilisé pour diagnostiquer divers troubles oculaires, tels que la rétinopathie diabétique, la rétinite pigmentaire, la dégénérescence maculaire ou d'autres maladies génétiques affectant la rétine. Il peut également être utile pour suivre la progression de ces maladies au fil du temps et évaluer l'efficacité des traitements.
+
+En résumé, l'électrorétinographie est une procédure précieuse permettant d'analyser l'activité électrique de la rétine et d'aider les médecins à évaluer la santé oculaire des patients, à diagnostiquer des maladies et à surveiller leur évolution.

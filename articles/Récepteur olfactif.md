@@ -1,0 +1,7 @@
+Le récepteur olfactif, aussi appelé neurone olfactif, est une cellule sensorielle spécialisée située dans la muqueuse olfactive de la cavité nasale. Sa principale fonction est de détecter les molécules odorantes présentes dans l'air et de transmettre cette information au cerveau pour être interprétée comme une sensation olfactive. 
+
+Chaque récepteur olfactif possède des protéines sensibles aux différentes molécules odorantes. Lorsqu'une molécule odorante se lie à ces protéines, elle déclenche une cascade de réactions biochimiques qui génère un potentiel d'action électrique le long du neurone olfactif. Ces signaux électriques sont ensuite transmis au bulbe olfactif du cerveau via le nerf olfactif, où ils sont interprétés et associés à des souvenirs, des émotions et des perceptions spécifiques liées à une odeur particulière.
+
+Les récepteurs olfactifs sont extrêmement sensibles et sont capables de détecter une grande variété de molécules odorantes, même à des concentrations très faibles. Il existe des centaines de types différents de récepteurs olfactifs, chacun étant sensible à un sous-ensemble spécifique de molécules odorantes. Cette diversité de récepteurs permet au cerveau de reconnaître et de distinguer un grand nombre d'odeurs différentes, contribuant ainsi à notre sens complexe de l'odorat. 
+
+En résumé, le récepteur olfactif est un élément clé de notre système olfactif, permettant la détection, la transmission et l'interprétation des odeurs dans notre environnement.

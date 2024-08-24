@@ -1,0 +1,7 @@
+Une dose est une quantité spécifique d'une substance donnée qui est administrée ou consommée à des fins médicales, nutritionnelles ou récréatives. Elle peut s'appliquer à différentes formes de substances, telles que des médicaments, des aliments, des drogues ou des produits chimiques. La dose recommandée peut varier en fonction de divers facteurs tels que l'âge, le poids, le sexe, la santé générale et la sensibilité individuelle à la substance.
+
+Il est important de respecter la dose prescrite par un professionnel de la santé, car une mauvaise utilisation peut entraîner des effets secondaires indésirables, voire des risques pour la santé. Les doses excessives peuvent causer une intoxication, tandis que des doses insuffisantes peuvent ne pas produire les effets thérapeutiques attendus.
+
+Il est également crucial de noter que certaines substances, comme les drogues illicites, peuvent avoir des dosages très dangereux et même mortels. Dans ce cas, il est impératif de ne jamais dépasser la dose recommandée et de rechercher de l'aide en cas de surdose.
+
+En conclusion, la dose est une mesure essentielle à prendre en compte lors de l'utilisation de toute substance, et il est primordial de suivre les recommandations des professionnels de la santé pour garantir une utilisation sûre et efficace.

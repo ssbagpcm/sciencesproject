@@ -1,0 +1,7 @@
+Le dosage est une mesure utilisée dans divers domaines tels que la médecine, la cuisine, la chimie, etc., pour déterminer la quantité exacte d'un ingrédient ou d'une substance qui doit être ajoutée à un mélange ou administrée à une personne. En médecine, par exemple, le dosage fait référence à la quantité spécifique d'un médicament qui doit être prise par un patient en fonction de divers facteurs tels que son poids, son âge et la gravité de sa maladie.
+
+Dans le domaine de la cuisine, le dosage se réfère à la mesure précise des ingrédients nécessaires pour préparer une recette afin d'obtenir le goût et la texture souhaités. Par exemple, une recette peut indiquer qu'il faut ajouter 5 grammes de sel ou 100 millilitres de lait pour obtenir le résultat attendu.
+
+En chimie, le dosage est essentiel pour mesurer avec précision la concentration d'une solution, c'est-à-dire la quantité d'une substance dissoute dans un volume donné de liquide. Cela permet de contrôler les réactions chimiques et de garantir la sécurité et l'efficacité des expériences réalisées en laboratoire.
+
+En résumé, le dosage est une pratique essentielle dans de nombreux domaines pour garantir l'efficacité, la précision et la sécurité des processus impliquant des substances ou des ingrédients spécifiques. Il repose sur des calculs et des mesures minutieuses afin d'obtenir des résultats fiables et cohérents.

@@ -1,0 +1,7 @@
+Le récepteur tyrosine kinase est une protéine transmembranaire impliquée dans la régulation de divers processus cellulaires tels que la croissance, la différenciation, la prolifération et la survie cellulaire. Ce récepteur possède une activité enzymatique intrinsèque de type kinase, capable de phosphoryler des résidus de tyrosine sur des protéines cibles à l'intérieur de la cellule.
+
+Lorsqu'un ligand spécifique se lie au récepteur tyrosine kinase, cela déclenche une cascade de signalisation cellulaire qui peut activer plusieurs voies de signalisation intracellulaire, telles que les voies MAPK, PI3K/AKT et JAK/STAT. Ces voies de signalisation sont essentielles pour la régulation de nombreux processus cellulaires, y compris la croissance et la survie cellulaire.
+
+Les récepteurs tyrosine kinase jouent un rôle crucial dans le développement et la progression de nombreux types de cancers. En effet, des mutations activatrices dans ces récepteurs peuvent entraîner une signalisation cellulaire aberrante et une croissance tumorale non contrôlée. En conséquence, les inhibiteurs de tyrosine kinase ont été développés pour cibler spécifiquement ces récepteurs dans le traitement du cancer.
+
+En résumé, le récepteur tyrosine kinase est une protéine clé impliquée dans la régulation de la signalisation cellulaire et joue un rôle crucial dans de nombreux processus biologiques, notamment dans le développement, la croissance cellulaire, la différenciation et la survie.

@@ -1,0 +1,9 @@
+**Les cytostatiques**, également connus sous le nom de médicaments cytotoxiques, sont des agents chimiothérapeutiques utilisés pour traiter le cancer. Ils agissent en interférant avec la capacité des cellules cancéreuses à se diviser et à se multiplier. Les cytostatiques peuvent bloquer différentes étapes du cycle cellulaire, empêchant ainsi la croissance tumorale.
+
+Il existe différents types de cytostatiques, chacun ciblant des voies spécifiques impliquées dans la prolifération des cellules cancéreuses. Certains cytostatiques agissent en perturbant la synthèse de l'ADN, entraînant des dommages génétiques qui empêchent les cellules malignes de se reproduire. D'autres inhibent la division cellulaire en perturbant la formation du fuseau mitotique, nécessaire pour séparer les chromosomes pendant la mitose.
+
+Les cytostatiques sont souvent administrés par voie intraveineuse, mais peuvent également être pris par voie orale, selon le type de cancer et le protocole de traitement. Ces médicaments peuvent provoquer des effets secondaires tels que nausées, vomissements, perte de cheveux et suppression de la moelle osseuse, ce qui peut entraîner une augmentation du risque d'infections.
+
+En raison de leur potentiel toxicité, les cytostatiques sont généralement prescrits par des oncologues spécialisés et nécessitent une surveillance étroite pendant le traitement. Ils sont souvent utilisés en combinaison avec d'autres thérapies anticancéreuses, telles que la chirurgie et la radiothérapie, dans le cadre d'une approche multimodale pour traiter le cancer de manière plus efficace.
+
+En résumé, les cytostatiques sont des médicaments essentiels dans le traitement du cancer, agissant en bloquant la croissance des cellules cancéreuses. Leur utilisation est basée sur une compréhension approfondie de la biologie des tumeurs et fait partie intégrante de nombreux protocoles de chimiothérapie visant à contrôler la progression de la maladie.

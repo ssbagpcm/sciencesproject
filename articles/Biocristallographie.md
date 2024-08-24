@@ -1,0 +1,7 @@
+La biocristallographie est une discipline scientifique qui étudie la structure tridimensionnelle des molécules biologiques, telles que des protéines, des acides nucléiques et des lipides, à l'échelle atomique en utilisant des techniques de diffraction des rayons X. Cette approche permet de visualiser les interactions entre les atomes constitutifs de ces molécules et de mieux comprendre leur fonctionnement au niveau moléculaire.
+
+En biocristallographie, les molécules biologiques sont cristallisées afin d'obtenir des cristaux de haute qualité, qui sont ensuite soumis à un faisceau de rayons X. Les rayons X diffusés par les atomes des cristaux sont enregistrés et analysés pour déterminer la position des atomes dans la molécule étudiée. Cette analyse permet de reconstruire la structure tridimensionnelle de la molécule et de comprendre comment elle interagit avec d'autres molécules dans les processus biologiques.
+
+La biocristallographie joue un rôle clé dans de nombreux domaines de la recherche biologique, notamment en pharmacologie pour concevoir de nouveaux médicaments ciblant des protéines spécifiques, en biochimie pour élucider les mécanismes moléculaires des processus biologiques, ou encore en biologie structurale pour comprendre l'évolution des organismes vivants à travers l'étude de leurs protéines.
+
+En résumé, la biocristallographie est une discipline essentielle pour l'étude des molécules biologiques, car elle permet de visualiser leur structure atomique et d'approfondir notre compréhension de leur fonctionnement à un niveau moléculaire.

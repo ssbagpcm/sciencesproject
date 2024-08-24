@@ -1,0 +1,7 @@
+L'hydrologie urbaine est une branche de la science qui étudie la gestion des eaux dans les environnements urbains. Elle s'intéresse principalement à la manière dont l'eau est collectée, stockée, traitée et distribuée dans les villes, ainsi qu'à la façon dont elle interagit avec l'environnement bâti et naturel.
+
+Les phénomènes hydrologiques urbains sont particulièrement complexes en raison de la concentration des activités humaines et des infrastructures dans les zones urbaines, ce qui peut entraîner une augmentation des risques d'inondations, de pollution et de pénuries d'eau. L'hydrologie urbaine vise donc à trouver des solutions durables pour gérer ces défis et assurer une gestion efficace et responsable des ressources en eau en milieu urbain.
+
+Les principaux domaines d'étude de l'hydrologie urbaine comprennent la gestion des eaux pluviales, la conception des réseaux d'assainissement, la gestion des eaux souterraines, la qualité de l'eau, la conservation des écosystèmes aquatiques urbains, la prévention des inondations, la gestion des risques liés à l'eau, et la planification urbaine intégrée.
+
+En résumé, l'hydrologie urbaine joue un rôle essentiel dans la construction de villes durables, résilientes et respectueuses de l'environnement, en assurant une gestion appropriée des ressources en eau et en minimisant les impacts des activités humaines sur les systèmes hydrologiques urbains.

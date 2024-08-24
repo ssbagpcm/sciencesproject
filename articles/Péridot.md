@@ -1,0 +1,7 @@
+Le péridot est une gemme variété de l'olivine, un minéral de la famille des silicates. Sa couleur caractéristique est un vert jaunâtre à vert olive, qui est due à la présence de fer dans sa composition. Le péridot a une dureté de 6,5 à 7 sur l'échelle de Mohs, ce qui le rend assez résistant aux rayures et adapté à un usage en bijouterie.
+
+Le péridot est une pierre précieuse très appréciée pour sa belle couleur vive et lumineuse, qui est souvent associée à la nature et à la fertilité. Il a été utilisé dans la joaillerie depuis l'Antiquité, et était particulièrement populaire chez les Égyptiens, les Romains et les Grecs. Le péridot est également la pierre de naissance du mois d'août, ce qui en fait un cadeau idéal pour les anniversaires célébrés pendant ce mois.
+
+En plus de sa beauté, le péridot est également associé à de nombreuses propriétés bénéfiques. On dit qu'il apporte la paix intérieure, la sérénité et la protection contre les énergies négatives. Il est également considéré comme une pierre de guérison, qui stimule le métabolisme, renforce le système immunitaire et aide à lutter contre le stress et la fatigue.
+
+En résumé, le péridot est une gemme fascinante à la belle couleur verte, qui a une longue histoire dans la joaillerie et est associée à de nombreuses propriétés bénéfiques. Que ce soit pour sa beauté ou ses vertus, le péridot est une pierre précieuse qui mérite d'être admirée et appréciée.

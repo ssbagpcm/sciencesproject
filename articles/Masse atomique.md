@@ -1,0 +1,7 @@
+La **masse atomique**, également appelée masse molaire atomique, est une propriété physique fondamentale d'un élément chimique. Elle représente la masse moyenne des atomes d'un élément en unités de masse atomique, exprimée en una (unité de masse atomique unifiée). La masse atomique est généralement donnée sur le tableau périodique des éléments sous la forme de nombres décimaux. Cette valeur est déterminée en prenant en compte la distribution isotopique naturelle des différents isotopes d'un élément et en les pondérant par leur abondance relative.
+
+Pour calculer la masse atomique d'un élément, on multiplie la masse de chaque isotope par son abondance relative, puis on additionne ces produits pour obtenir la masse atomique moyenne. Par exemple, pour l'élément oxygène, qui a trois isotopes principaux (O-16, O-17 et O-18) avec des abondances respectives de 99,76%, 0,04% et 0,20%, la masse atomique est calculée de la manière suivante : 
+
+(16 u x 0,9976) + (17 u x 0,0004) + (18 u x 0,0020) = 15,999 u
+
+Ainsi, la masse atomique de l'oxygène est d'environ 15,999 una. Il est important de noter que la masse atomique n'est pas une quantité mesurable directement en laboratoire, mais plutôt une valeur calculée basée sur les masses des isotopes et leurs abondances relatives. Elle est essentielle en chimie pour divers calculs, tels que la détermination des quantités de matière, la conversion entre les grammes et les moles, ou la compréhension des réactions chimiques et des compositions moléculaires.

@@ -1,0 +1,7 @@
+L'opéron est une unité fonctionnelle de l'ADN dans les cellules procaryotes telles que les bactéries. C'est un concept clé en génétique et en biologie moléculaire qui régit l'expression des gènes impliqués dans un même processus métabolique ou une même voie métabolique. 
+
+Un opéron est composé de plusieurs éléments. Tout d'abord, il contient un promoteur, qui est la séquence d'ADN à laquelle se lie l'ARN polymérase pour commencer la transcription des gènes de l'opéron. Ensuite, il comporte un opérateur, une séquence régulatrice à laquelle se lie un répresseur ou un activateur, contrôlant ainsi l'expression des gènes de l'opéron. Enfin, l'opéron contient les gènes structuraux, qui codent pour les protéines impliquées dans le processus métabolique concerné.
+
+Le fonctionnement de l'opéron est généralement régi par un système de régulation en fonction des besoins de la cellule. En présence du substrat spécifique, celui-ci peut se lier à un activateur ou délier un répresseur, permettant ainsi la transcription des gènes de l'opéron pour la synthèse des protéines nécessaires. À l'inverse, en l'absence du substrat, le répresseur peut se lier à l'opérateur et bloquer la transcription.
+
+L'étude des opérons a permis de mieux comprendre les mécanismes de régulation de l'expression génique et leur importance dans l'adaptation des organismes aux conditions environnementales changeantes. Ils sont également utilisés comme outils en biologie moléculaire pour la régulation de l'expression de gènes d'intérêt.

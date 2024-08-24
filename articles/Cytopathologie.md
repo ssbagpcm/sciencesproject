@@ -1,0 +1,9 @@
+**La Cytopathologie** est une branche de la pathologie qui se concentre sur l'étude des cellules individuelles prélevées à partir d'échantillons biologiques, tels que des frottis, des liquides corporels ou des tissus. Cette discipline permet aux pathologistes d'analyser les caractéristiques cellulaires pour diagnostiquer les maladies et évaluer les changements cytologiques associés à divers processus pathologiques.
+
+En cytopathologie, les cellules sont examinées au microscope pour détecter des anomalies morphologiques, telles que des tailles, des formes ou des structures anormales, ainsi que des changements dans le noyau, le cytoplasme ou d'autres composants cellulaires. Ces observations permettent d'identifier des signes de malignité, d'infection, d'inflammation ou d'autres affections pathologiques.
+
+Les techniques de cytopathologie comprennent l'utilisation de colorations spéciales pour mettre en évidence certaines caractéristiques cellulaires, l'analyse immunocytochimique pour détecter des protéines spécifiques dans les cellules, et la cytométrie en flux pour quantifier et caractériser les populations cellulaires.
+
+La cytopathologie est largement utilisée dans le diagnostic du cancer, notamment pour le dépistage précoce, le suivi de l'évolution des tumeurs et l'évaluation de la réponse au traitement. Elle peut également être utilisée pour diagnostiquer des infections virales, bactériennes ou fongiques, des troubles inflammatoires et d'autres conditions médicales.
+
+En résumé, la cytopathologie joue un rôle essentiel dans le diagnostic précis des maladies à partir d'échantillons cellulaires, contribuant ainsi à guider les décisions cliniques et thérapeutiques pour assurer des soins de santé efficaces et personnalisés.

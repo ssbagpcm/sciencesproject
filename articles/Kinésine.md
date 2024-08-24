@@ -1,0 +1,7 @@
+**La kinésine** est une protéine motrice qui joue un rôle essentiel dans le transport intracellulaire des organites et des vésicules le long des microtubules à l'intérieur des cellules eucaryotes. Les kinésines font partie d'une famille de protéines impliquées dans le mouvement des cargaisons cellulaires, en particulier dans les cellules nerveuses, musculaires et ciliées.
+
+Le mécanisme de fonctionnement de la kinésine repose sur l'hydrolyse de l'ATP pour générer de l'énergie permettant le déplacement des cargaisons le long des microtubules. Chaque molécule de kinésine possède deux têtes motrices qui se lient aux microtubules et une queue qui se lie aux cargaisons à transporter. Ce processus de liaison et de détachement alternatif des têtes motrices sur les microtubules permet à la kinésine de se déplacer de manière directionnelle le long des fibres protéiques.
+
+Les kinésines sont impliquées dans divers processus cellulaires tels que le transport des vésicules de sécrétion, le positionnement des organites, la division cellulaire, la formation des cils et flagelles, ainsi que le maintien de la polarité cellulaire. Leurs dysfonctionnements peuvent entraîner des troubles du développement, des maladies neurologiques ou des cancers.
+
+En résumé, la kinésine est une protéine essentielle pour le transport intracellulaire des composants cellulaires et joue un rôle crucial dans de nombreux processus biologiques nécessitant un déplacement spécifique et contrôlé au sein des cellules.

@@ -1,0 +1,13 @@
+**L'Algobulle** est un concept qui fait référence à une bulle spéculative créée par l'utilisation d'un algorithme, souvent dans le contexte des marchés financiers. L'idée derrière l'Algobulle est que les algorithmes de trading automatisé peuvent amplifier les mouvements du marché et créer une distorsion dans le prix des actifs, conduisant ainsi à une bulle spéculative.
+
+Dans le contexte financier, les algorithmes, également appelés robots de trading ou traders haute fréquence, sont utilisés pour exécuter des opérations d'achat et de vente d'actifs financiers à une vitesse beaucoup plus élevée que ce qui est possible pour un être humain. Ces algorithmes sont souvent programmés pour rechercher des modèles et des signaux de marché qui peuvent indiquer des opportunités de trading.
+
+L'Algobulle se produit lorsque ces algorithmes commencent à agir de manière similaire en réponse à certains signaux de marché, créant ainsi une dynamique d'achat ou de vente qui peut entraîner une augmentation rapide des prix et une surévaluation des actifs. Cette hausse des prix attire ensuite l'attention des autres investisseurs, qui peuvent également commencer à acheter sans tenir compte des fondamentaux économiques réels, ce qui alimente davantage la bulle.
+
+Les Algobulles peuvent être dangereuses car elles peuvent provoquer des distorsions importantes dans les prix des actifs et mener à des situations de surévaluation extrême. Lorsque la bulle éclate, les prix peuvent chuter brusquement, entraînant des pertes significatives pour les investisseurs qui ont acheté à des niveaux trop élevés.
+
+Il convient de noter que l'Algobulle n'est pas spécifique à un marché financier particulier. Il peut se produire dans les actions, les devises, les matières premières ou d'autres actifs financiers, là où les algorithmes de trading automatisé sont utilisés de manière répandue.
+
+Pour faire face aux Algobulles, les régulateurs financiers ont mis en place des mesures de surveillance et de contrôle pour limiter les risques associés à ces opérations automatisées. Cela comprend des mécanismes de circuit breaker qui interrompent temporairement les échanges en cas de volatilité excessive, ainsi que des exigences de transparence accrue sur les stratégies de trading utilisées par les algorithmes.
+
+En conclusion, l'Algobulle est une expression qui décrit une bulle spéculative créée par l'utilisation d'algorithme de trading automatisé. Ces bulles peuvent provoquer des distorsions significatives dans le prix des actifs financiers et peuvent être dangereuses pour les investisseurs. Les régulateurs travaillent à mettre en place des mesures de surveillance pour atténuer les risques associés à ces phénomènes.

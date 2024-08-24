@@ -1,0 +1,7 @@
+Le Dominant, dans le contexte des relations interpersonnelles ou du monde du BDSM (Bondage, Discipline, Domination, Soumission, Sado-Masochisme), désigne une personne qui exerce le contrôle, le pouvoir et l'autorité sur son/sa partenaire, souvent appelé(e) Soumis(e) ou Soumise. Cette dynamique de Dominant/soumis est basée sur le consentement et la négociation préalable de limites et de règles établies entre les deux parties.
+
+Le rôle du Dominant peut varier en fonction des préférences et des limites de chacun, mais il implique généralement de prendre des décisions, de donner des ordres, de diriger les activités et d'assumer la responsabilité du bien-être et de la sécurité de son/sa partenaire soumis(e). Le Dominant est souvent perçu comme celui qui détient le pouvoir et qui guide la scène ou la relation vers les plaisirs recherchés.
+
+Il est important de noter que le rôle de Dominant ne signifie pas nécessairement agir de manière autoritaire ou abusive. Un Dominant consensuel et respectueux cherche avant tout à satisfaire les besoins et les désirs de son/sa partenaire soumis(e), tout en veillant à maintenir un climat de confiance et de communication ouverte. Le respect mutuel, le consentement éclairé et la sécurité sont des éléments fondamentaux de toute relation BDSM basée sur le jeu de pouvoir.
+
+En résumé, le Dominant est celui qui exerce le contrôle et l'autorité dans une relation BDSM, en respectant les limites et les désirs de son/sa partenaire soumis(e) dans le cadre d'une négociation préalable et d'un consentement mutuel.

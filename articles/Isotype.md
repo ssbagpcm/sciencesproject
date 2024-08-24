@@ -1,0 +1,5 @@
+L'Isotype, ou International System of Typographic Picture Education, est un système de communication visuelle créé par le graphiste autrichien Otto Neurath dans les années 1920. L'Isotype est basé sur l'utilisation de symboles graphiques simples et universels pour représenter des concepts, des données ou des informations de manière claire et concise. 
+
+Cette méthode de communication visuelle a été développée dans le but de rendre l'information accessible à un large public, indépendamment de leur langue ou de leur niveau d'éducation. Les symboles utilisés dans l'Isotype sont conçus de manière à être facilement compréhensibles et mémorisables, ce qui les rend particulièrement adaptés pour la transmission d'informations complexes de manière rapide et efficace.
+
+L'Isotype a été largement utilisé dans des domaines tels que l'éducation, la statistique, l'architecture, l'urbanisme et la publicité. Son approche visuelle et intuitive a influencé de nombreux graphistes et designers à travers le monde, et son impact se fait encore sentir aujourd'hui dans de nombreux domaines de la communication visuelle.

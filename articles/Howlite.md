@@ -1,0 +1,7 @@
+La Howlite est une pierre semi-précieuse de la famille des borates, qui se distingue par sa couleur blanche à blanc-crème marbrée de veines grises. Elle a été découverte pour la première fois au Canada mais elle est également présente aux États-Unis et en Allemagne. La Howlite est souvent utilisée en joaillerie pour la fabrication de bijoux et en lithothérapie pour ses propriétés apaisantes.
+
+Sur le plan émotionnel, la Howlite est réputée pour favoriser la relaxation et la sérénité. Elle est souvent recommandée pour apaiser le stress, l'anxiété et les tensions émotionnelles. Certains affirment également qu'elle aide à calmer l'hyperactivité mentale et à favoriser un sommeil réparateur.
+
+Sur le plan physique, la Howlite est associée à la purification et à l'équilibre du corps. Elle est souvent utilisée en tant que pierre de relaxation pour favoriser la détente musculaire et soulager les maux de tête. Certains praticiens de la lithothérapie recommandent également la Howlite pour aider à réguler la circulation sanguine et à renforcer les os.
+
+En résumé, la Howlite est une pierre semi-précieuse prisée pour sa teinte distinctive et appréciée pour son potentiel apaisant aussi bien sur le plan émotionnel que physique. Elle est largement utilisée en bijouterie et en lithothérapie pour ses nombreuses vertus supposées.

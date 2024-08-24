@@ -1,0 +1,7 @@
+Le dipôle est un concept utilisé en physique pour décrire toute entité contenant deux pôles distincts, positif et négatif. Ces deux pôles ont des charges électriques opposées et créent un champ électrique entre eux. 
+
+En électrostatique, on distingue deux types de dipôles : le dipôle électrique et le dipôle magnétique. Un dipôle électrique est constitué de deux charges égales en magnitude mais de signes opposés, séparées par une certaine distance. Ce type de dipôle génère un champ électrique qui décroît en inverse du cube de la distance par rapport à lui. Les exemples les plus communs de dipôles électriques sont les dipôles moléculaires dans les molécules polaires comme l'eau.
+
+D'un autre côté, un dipôle magnétique est formé de deux pôles magnétiques opposés, nord et sud, séparés par une distance donnée. Les dipôles magnétiques sont caractérisés par leur moment magnétique, qui est une mesure de leur capacité à interagir avec un champ magnétique extérieur. Les aimants sont des exemples de dipôles magnétiques.
+
+Les dipôles jouent un rôle essentiel dans de nombreux phénomènes physiques, tels que l'interaction entre deux particules chargées, la polarisation des matériaux, la formation des aimants permanents, ou encore la propagation des ondes électromagnétiques. En résumé, le dipôle est un concept fondamental en physique qui permet de décrire et d'analyser de nombreux phénomènes électriques et magnétiques.

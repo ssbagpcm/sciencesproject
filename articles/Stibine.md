@@ -1,0 +1,7 @@
+La stibine, également connue sous le nom de trihydrure d'antimoine, est un composé chimique de formule SbH3. Il s'agit d'un gaz incolore et extrêmement toxique qui a une odeur de pourri. La stibine est généralement produite par la réaction de l'antimoine avec des acides forts.
+
+La stibine est principalement utilisée dans l'industrie chimique pour la synthèse de composés organiques contenant de l'antimoine, ainsi que dans la production de semi-conducteurs. Cependant, en raison de sa toxicité, son utilisation est devenue de plus en plus limitée.
+
+L'exposition à la stibine peut entraîner de graves problèmes de santé, notamment des troubles respiratoires, des lésions cutanées et des dommages au système nerveux. En raison de sa toxicité, des précautions strictes doivent être prises lors de la manipulation de ce composé chimique.
+
+Des mesures de sécurité telles que le port d'équipement de protection individuelle et le contrôle strict de l'exposition sont nécessaires pour minimiser les risques pour la santé associés à la stibine. De plus, des dispositifs de détection et des protocoles d'intervention d'urgence doivent être mis en place dans les environnements où la stibine est utilisée ou manipulée.

@@ -1,0 +1,7 @@
+La vitesse de propagation est une mesure fondamentale qui décrit la rapidité avec laquelle une vague, un signal ou une perturbation se déplace à travers un milieu donné. Cette grandeur physique est exprimée en distance parcourue par unité de temps, généralement en mètres par seconde (m/s). 
+
+La vitesse de propagation dépend principalement des caractéristiques du milieu à travers lequel la perturbation se propage. Par exemple, dans le cas des ondes sonores, la vitesse de propagation dépend de la densité et de l'élasticité du milieu de propagation. Dans le cas des ondes électromagnétiques, la vitesse de propagation est déterminée par les propriétés du milieu telles que la permittivité et la perméabilité du milieu. 
+
+En général, la vitesse de propagation est influencée par différentes variables telles que la température, la pression, l'humidité, etc. De plus, la propagation peut se faire de manière isotrope, c'est-à-dire avec la même vitesse dans toutes les directions, ou anisotrope, avec une vitesse variant en fonction de la direction de propagation. 
+
+Comprendre la vitesse de propagation est essentiel dans de nombreux domaines scientifiques et technologiques, tels que la communication sans fil, l'acoustique, la sismologie, etc. En résumé, la vitesse de propagation est une caractéristique fondamentale des ondes et des perturbations qui nous entourent, et elle joue un rôle crucial dans la manière dont nous percevons et interagissons avec le monde qui nous entoure.

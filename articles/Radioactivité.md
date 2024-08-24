@@ -1,0 +1,7 @@
+**La Radioactivité**
+
+La radioactivité est un phénomène naturel ou artificiel au cours duquel les noyaux atomiques instables se transforment en d'autres noyaux plus stables par l'émission de particules ionisantes ou de rayonnements électromagnétiques, tels que les rayons alpha, beta et gamma. Ce processus de désintégration nucléaire peut être spontané, c'est-à-dire qu'il se produit de manière aléatoire, ou provoqué, comme dans le cas des réactions nucléaires contrôlées dans les centrales nucléaires.
+
+La radioactivité a été découverte à la fin du XIXe siècle par Henri Becquerel, Marie Curie et Pierre Curie, qui ont observé que certains minéraux, comme l'uranium et le radium, émettaient des rayonnements capables de traverser la matière et de provoquer des ionisations. Ces rayonnements peuvent avoir des effets biologiques graves sur les organismes vivants s'ils sont absorbés en quantités importantes, car ils peuvent endommager les cellules et causer des mutations génétiques.
+
+Cependant, la radioactivité est également utilisée à des fins bénéfiques, notamment en médecine pour le diagnostic et le traitement du cancer, en industrie pour le contrôle de la qualité des matériaux et dans l'agriculture pour stériliser les aliments. Malgré ses risques potentiels, la radioactivité est un outil précieux dans de nombreux domaines de la science et de la technologie, mais elle nécessite une manipulation prudente et des mesures de sécurité adéquates pour éviter les dangers pour la santé et l'environnement.

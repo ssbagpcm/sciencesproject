@@ -1,0 +1,11 @@
+**Le Paradoxe du chat schrödingerien** est un concept paradoxal issu de la physique quantique et proposé par Erwin Schrödinger en 1935. Il a été formulé dans le but d'illustrer les étrangetés et les contradictions apparentes du monde quantique.
+
+Ce paradoxe met en scène un chat, enfermé dans une boîte opaque avec un dispositif contenant une source radioactive et un détecteur de radioactivité, reliés à un flacon de poison mortel pour le chat. Selon les lois de la physique quantique, il y a une certaine probabilité que le noyau atomique se désintègre, ce qui déclencherait le détecteur, briserait le flacon de poison et tuerait le chat. Cependant, tant que la boîte reste fermée, l'état du chat est indéterminé et décrit par une superposition quantique, où il est simultanément vivant et mort.
+
+Ce paradoxe soulève de nombreuses questions sur la nature de la réalité et l'interprétation des lois quantiques. En effet, selon l'interprétation de Copenhague, jusqu'à ce que l'observation soit faite, le chat est considéré comme étant à la fois vivant et mort, ce qui crée une situation contradictoire. 
+
+Le paradoxe souligne également le rôle crucial de l'observateur dans la mesure quantique. Lorsque la boîte est ouverte et que l'observateur vérifie l'état du chat, l'état quantique de superposition s'effondre en une réalité bien définie - le chat est alors soit vivant, soit mort. Cela met en évidence le phénomène de la réduction du paquet d'ondes, où la mesure quantique transforme un état superposé en un état déterminé.
+
+Néanmoins, il convient de noter que le paradoxe du chat schrödingerien n'est qu'une expérience de pensée et ne décrit pas nécessairement la réalité physique telle quelle. Il a été formulé pour souligner les implications troublantes des principes quantiques et susciter des discussions sur l'interprétation de ces principes au sein de la communauté scientifique.
+
+En conclusion, le paradoxe du chat schrödingerien illustre l'étrangeté de la mécanique quantique en mettant en scène un chat qui est simultanément vivant et mort tant que son état n'a pas été observé. Ce paradoxe invite à réfléchir sur la nature de la réalité et l'influence de l'observation dans le monde quantique.

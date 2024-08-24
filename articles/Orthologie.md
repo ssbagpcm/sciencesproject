@@ -1,0 +1,7 @@
+**L'orthologie** est un concept important en biologie et en génétique qui fait référence à la relation évolutive entre des gènes dans différentes espèces, qui ont une origine commune grâce à un ancêtre commun. En d'autres termes, lorsque deux gènes dans des espèces différentes partagent une même séquence ou une fonction similaire en raison de leur héritage évolutif, on les considère comme étant orthologues.
+
+Les gènes orthologues sont souvent conservés au fil de l'évolution car ils remplissent des fonctions essentielles pour la survie des organismes. Étudier les orthologues permet aux scientifiques de mieux comprendre l'évolution des gènes et des organismes, ainsi que de prédire le rôle et la fonction des gènes inconnus en se basant sur les connaissances déjà acquises sur leurs orthologues.
+
+L'identification des orthologues peut être réalisée à l'aide de méthodes bioinformatiques qui comparent les séquences génétiques entre différentes espèces pour trouver des similitudes significatives. Cette approche est particulièrement utile pour déterminer la fonction biologique des gènes, prédire les interactions protéine-protéine et comprendre les voies de signalisation et les processus cellulaires conservés à travers l'évolution.
+
+En résumé, l'orthologie est un concept fondamental en biologie qui nous aide à relier les gènes et les processus biologiques entre différentes espèces, ce qui nous permet de mieux comprendre l'évolution et la diversité du vivant.

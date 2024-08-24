@@ -1,0 +1,5 @@
+La biogenèse est le processus par lequel des organismes vivants se forment à partir d'autres organismes vivants préexistants. Contrairement à la génération spontanée, qui était une ancienne théorie selon laquelle la vie pouvait surgir de manière spontanée à partir de matière inanimée, la biogenèse repose sur l'idée que tout organisme vivant provient de la multiplication d'organismes déjà existants. 
+
+Ce concept a été au cœur de la controverse scientifique pendant des siècles, notamment au cours de l'expérience de Spallanzani et la célèbre expérience de Louis Pasteur, qui ont tous deux contribué à réfuter la théorie de la génération spontanée. Aujourd'hui, la biogenèse est acceptée comme un principe fondamental en biologie et constitue une base importante de notre compréhension de l'origine et de l'évolution de la vie sur Terre.
+
+En somme, la biogenèse s'inscrit dans le cadre plus large de la théorie de l'évolution, en soulignant le rôle crucial de la reproduction et de la transmission des gènes dans le maintien de la vie et la diversité des organismes.

@@ -1,0 +1,5 @@
+Un antigène est une substance étrangère à l'organisme qui est capable de déclencher une réponse du système immunitaire. Il peut s'agir de molécules protéiques, de glucides, de lipides ou de polymères, présents sur la surface des agents pathogènes tels que les virus, les bactéries, les parasites, mais aussi sur les cellules tumorales ou les cellules transplantées.
+
+Lorsqu'un antigène pénètre dans l'organisme, il est reconnu par le système immunitaire comme étant un corps étranger. Les cellules du système immunitaire, telles que les lymphocytes, vont alors lancer une réponse immunitaire pour éliminer cet antigène. Cette réponse immunitaire peut se traduire par la production d'anticorps spécifiques capables de se fixer sur l'antigène et de le neutraliser, ou par la mobilisation d'autres cellules immunitaires pour détruire l'antigène.
+
+Les antigènes jouent un rôle crucial dans la capacité de notre organisme à se défendre contre les infections et les maladies. La reconnaissance et la réponse immunitaire spécifique aux antigènes permettent à notre système immunitaire de combattre efficacement les agents pathogènes et de maintenir notre santé.

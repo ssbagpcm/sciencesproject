@@ -1,0 +1,7 @@
+La génomique humaine est une branche de la biologie qui étudie la structure, la fonction, l'évolution et la régulation du génome humain. Le génome humain est l'ensemble de l'ADN contenu dans les cellules de notre corps, qui contient toutes les informations nécessaires pour le développement, la croissance et le fonctionnement de l'organisme humain. 
+
+L'étude de la génomique humaine a connu un essor important ces dernières décennies grâce aux avancées technologiques en matière de séquençage de l'ADN. En 2003, le projet Human Genome Project (HGP) a permis de séquencer pour la première fois l'ensemble du génome humain, ouvrant ainsi la voie à de nombreuses découvertes dans le domaine de la médecine, de la biologie et de la recherche fondamentale.
+
+La génomique humaine joue un rôle crucial dans de nombreux domaines, tels que la médecine personnalisée, la pharmacogénomique, la génétique des maladies, la généalogie génétique, et même l'évolution humaine. En comprenant mieux la structure et la fonction du génome humain, les chercheurs peuvent identifier les gènes impliqués dans certaines maladies génétiques, développer de nouveaux traitements plus ciblés et comprendre les mécanismes sous-jacents à des phénomènes complexes tels que le vieillissement ou les maladies chroniques.
+
+En résumé, la génomique humaine est une discipline scientifique passionnante et en constante évolution qui vise à mieux comprendre notre patrimoine génétique et ses implications sur notre santé et notre bien-être.

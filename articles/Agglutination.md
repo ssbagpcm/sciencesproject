@@ -1,0 +1,7 @@
+**L'agglutination** est un phénomène linguistique qui consiste en la formation de mots par l'adjonction successive de morphèmes, généralement sous forme de préfixes ou suffixes, à un radical de base. Ce processus permet de créer de nouveaux mots en combinant des éléments significatifs pour exprimer des nuances de sens, de temps, de mode, de genre, etc. 
+
+Dans les langues agglutinantes, chaque morphème ajouté conserve son autonomie sémantique et grammaticale, ce qui facilite la compréhension des structures complexes. Contrairement aux langues flexionnelles où un même morphème peut exprimer plusieurs informations (comme en latin ou en français), les langues agglutinantes présentent une plus grande transparence dans la construction des mots.
+
+Un exemple célèbre de langue agglutinante est le finnois, où il est courant d'ajouter plusieurs suffixes à un radical pour indiquer des notions telles que le cas, le nombre, le temps ou la personne. Par exemple, le mot "talossanikinko" se compose du radical "talo" (maison), auquel sont ajoutés successivement les suffixes -ssa (dans), -ni (mon), -kin (aussi) et -ko (est-ce que), donnant ainsi la signification de "dans ma maison aussi ?".
+
+En résumé, l'agglutination est un procédé morphologique essentiel dans de nombreuses langues du monde, offrant une grande expressivité et une certaine régularité dans la formation des mots grâce à la concaténation de morphèmes distincts et identifiables.

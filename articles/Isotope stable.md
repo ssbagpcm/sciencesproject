@@ -1,0 +1,5 @@
+Un isotope stable est une variante d'un élément chimique qui possède le même nombre de protons dans son noyau que l'isotope principal de cet élément, mais un nombre différent de neutrons. Les isotopes stables ne subissent pas de désintégration radioactive et ont une demi-vie infinie, ce qui signifie qu'ils restent stables dans le temps. 
+
+Ces isotopes sont généralement abondants dans la nature et jouent un rôle important dans divers processus biologiques, environnementaux et industriels. Par exemple, le carbone 12, l'oxygène 16 et le fer 56 sont des exemples d'isotopes stables qui sont largement présents dans la nature et qui sont essentiels à la vie sur Terre.
+
+Les isotopes stables sont utilisés dans de nombreuses applications, comme la datation des roches et des fossiles, l'étude des processus géologiques, la recherche en physique nucléaire, la datation des matériaux archéologiques, la nutrition et la santé, entre autres. Leur stabilité en fait des outils fiables pour étudier et comprendre divers phénomènes naturels et scientifiques.

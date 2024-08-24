@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Left Section</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            font-family: Arial, sans-serif;
+            background-color: #000000;
+            color: #ffffff;
+        }
+
+        #container {
+            display: flex;
+            flex-direction: column;
+            height: 300vh;
+            transition: transform 1s ease;
+        }
+
+        .section {
+            width: 100%;
+            height: 100vh;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 20px;
+            transition: opacity 1s ease, transform 1s ease, filter 1s ease;
+            opacity: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transform: scale(0.8) rotateX(10deg);
+            filter: brightness(70%) blur(10px);
+            overflow: hidden;
+        }
+
+        .iframe-container {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .iframe-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div class="section">
+            <div class="iframe-container">
+                <iframe src="solarsystem.html" tabindex="-1"></iframe>
+            </div>
+        </div>
+        <div class="section">
+            <div class="iframe-container">
+                <iframe src="presentation.html" tabindex="-1"></iframe>
+            </div>
+        </div>
+        <div class="section">
+            <div class="iframe-container">
+                <iframe src="chatgpt.html" tabindex="-1"></iframe>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const container = document.getElementById('container');
+            const sections = document.querySelectorAll('.section');
+            let currentSectionIndex = 0;
+
+            function updateSection() {
+                sections.forEach((section, index) => {
+                    if (index === currentSectionIndex) {
+                        section.style.opacity = 1;
+                        section.style.transform = 'scale(1) rotateX(0deg)';
+                        section.style.filter = 'brightness(100%) blur(0)';
+                    } else {
+                        section.style.opacity = 0;
+                        section.style.transform = 'scale(0.8) rotateX(10deg)';
+                        section.style.filter = 'brightness(70%) blur(10px)';
+                    }
+                });
+                container.style.transform = `translateY(-${currentSectionIndex * 100}vh)`;
+            }
+
+            updateSection();
+
+            function handleKeyDown(event) {
+                if (event.key === 'ArrowUp' || event.key === 'ArrowDown') {
+                    event.preventDefault();
+                    if (event.key === 'ArrowUp' && currentSectionIndex > 0) {
+                        currentSectionIndex--;
+                        updateSection();
+                    } else if (event.key === 'ArrowDown' && currentSectionIndex < sections.length - 1) {
+                        currentSectionIndex++;
+                        updateSection();
+                    }
+                }
+            }
+
+            document.addEventListener('keydown', handleKeyDown);
+            window.addEventListener('keydown', handleKeyDown);
+
+            window.addEventListener('message', (event) => {
+                if (event.data.key === 'ArrowUp' || event.data.key === 'ArrowDown') {
+                    handleKeyDown({ key: event.data.key, preventDefault: () => {} });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

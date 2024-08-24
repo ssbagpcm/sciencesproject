@@ -1,0 +1,7 @@
+**La Malaria, également connue sous le nom de paludisme, est une maladie infectieuse causée par des parasites du genre Plasmodium. Il s'agit d'une maladie potentiellement grave transmise par la piqûre de moustiques infectés. Les symptômes de la malaria incluent de la fièvre, des frissons, des maux de tête et des douleurs musculaires, et dans les cas les plus sévères, elle peut entraîner des complications graves voire fatales.**
+
+**La malaria reste l'une des principales causes de décès dans de nombreuses régions tropicales et subtropicales du monde, en particulier en Afrique subsaharienne. Les enfants de moins de cinq ans et les femmes enceintes sont particulièrement vulnérables à la maladie.**
+
+**Le contrôle de la malaria repose principalement sur la prévention des piqûres de moustiques infectés par des moyens tels que l'utilisation de moustiquaires imprégnées d'insecticide et la pulvérisation d'insecticides. Le traitement de la malaria repose sur des médicaments antipaludiques efficaces, mais la résistance aux médicaments constitue un défi croissant dans la lutte contre la maladie.**
+
+**Des efforts mondiaux sont déployés pour éliminer la malaria, notamment à travers des campagnes de sensibilisation, le développement de nouveaux outils de diagnostic et de traitement, ainsi que la recherche d'un vaccin efficace contre la maladie. La lutte contre la malaria nécessite une approche multidimensionnelle impliquant la collaboration entre les gouvernements, les organisations internationales, les chercheurs et les communautés locales.**

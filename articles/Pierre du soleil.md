@@ -1,0 +1,7 @@
+La Pierre du Soleil, également connue sous le nom d'Aztec Sun Stone ou Calendrier aztèque, est une sculpture aztèque en pierre monolithique de grande taille qui est considérée comme l'une des plus importantes œuvres d'art de l'empire aztèque. Elle mesure environ 3,6 mètres de diamètre et pèse environ 24 tonnes.
+
+La Pierre du Soleil a été créée par les Aztèques vers la fin du XVe siècle et a été retrouvée enterrée sous la place principale de Mexico en 1790. Elle représente le calendrier aztèque avec ses symboles complexes et sa signification cosmologique profonde. La pierre est sculptée avec des divinités aztèques, des symboles de calendrier et des scènes mythologiques qui dépeignent la conception du temps et de l'univers selon les Aztèques.
+
+L'énorme taille et la complexité de la Pierre du Soleil ont conduit certains à interpréter qu'elle était utilisée comme un calendrier immense, tandis que d'autres pensent qu'elle était utilisée à des fins rituelles ou cérémonielles. Quelle que soit son utilisation précise, la Pierre du Soleil reste un témoignage spectaculaire de la riche culture et de la sophistication artistique des Aztèques.
+
+Aujourd'hui, la Pierre du Soleil est exposée au Musée National d'Anthropologie de Mexico, où elle attire des milliers de visiteurs chaque année qui viennent admirer cette œuvre emblématique de l'art aztèque et en apprendre davantage sur la fascinante civilisation qui l'a créée.

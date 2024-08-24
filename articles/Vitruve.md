@@ -1,0 +1,7 @@
+**Le Vitruve** est un traité d'architecture antique rédigé par l'architecte romain Vitruve, également connu sous le nom de Marcus Vitruvius Pollio. Ce texte, intitulé **"De Architectura"** (ou "L'Architecture"), est l'une des sources les plus importantes et influentes sur l'architecture classique.
+
+Il a été écrit vers 27 av. J.-C. et est composé de dix livres détaillant les principes de construction, les matériaux, les techniques architecturales ainsi que les théories sur l'architecture et l'urbanisme de l'époque romaine. Vitruve y aborde des sujets variés tels que les ordres architecturaux, la planification des villes, l'ingénierie civile et militaire, ou encore la conception des temples et des théâtres.
+
+L'une des idées les plus célèbres présentées par Vitruve est le concept de **"firmitas, utilitas, venustas"** (solidité, utilité, beauté) qui sont les trois qualités essentielles que tout édifice architectural doit posséder. Selon Vitruve, un bâtiment bien conçu doit être solide, fonctionnel et esthétiquement agréable.
+
+Le Vitruve a eu une influence considérable sur l'architecture occidentale et a contribué à façonner les principes et les normes de construction qui ont perduré à travers les siècles. Il est encore étudié et référencé par les architectes et les historiens de l'architecture aujourd'hui pour sa riche connaissance et sa vision complète de l'art de construire.

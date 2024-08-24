@@ -1,0 +1,9 @@
+Le génotype se réfère à l'ensemble des gènes présents dans les chromosomes d'un organisme. Il représente l'information génétique héritée des parents et qui détermine les caractéristiques biologiques de cet organisme. Le génotype est composé de séquences d'ADN, la molécule qui contient les instructions nécessaires pour le développement et le fonctionnement des cellules.
+
+Chaque individu a un génotype unique qui est formé lors de la fécondation, où l'ADN provenant du spermatozoïde et de l'ovule se combinent pour former un nouvel ensemble de gènes. Ces gènes sont organisés en paires sur les chromosomes, avec un chromosome provenant de chaque parent. Les variations dans les séquences d'ADN entre les individus donnent lieu à la diversité génétique au sein d'une espèce.
+
+Le génotype d'un individu peut influencer de nombreux aspects de sa physiologie, de son apparence physique, de ses prédispositions aux maladies, et même de son comportement. Par exemple, certaines mutations génétiques peuvent augmenter le risque de développer des maladies telles que le cancer ou les maladies cardiovasculaires. D'autres variations génétiques peuvent déterminer des caractéristiques physiques comme la couleur des yeux ou la taille.
+
+Il est important de noter que le génotype n'est pas la seule influence sur les caractéristiques d'un individu. L'environnement dans lequel il évolue et interagit joue également un rôle crucial dans l'expression des gènes et le développement des traits observables. Ainsi, le génotype et l'environnement interagissent de manière complexe pour façonner la phénotype d'un individu, c'est-à-dire ses caractéristiques observables.
+
+En conclusion, le génotype représente l'ensemble des gènes d'un individu, hérité de ses parents et déterminant ses caractéristiques biologiques. C'est une composante essentielle de l'hérédité et de la diversité génétique au sein des populations.

@@ -1,0 +1,9 @@
+L'Alexandrite est une variété de pierre précieuse de la famille des chrysoberyls. Elle est connue pour son phénomène de changement de couleur, qui la rend particulièrement recherchée et précieuse. Son nom provient de la légende selon laquelle elle a été découverte le jour de l'anniversaire du tsar Alexandre II de Russie en 1830, d'où son nom en son honneur. 
+
+Ce qui rend l'Alexandrite si unique, c'est sa capacité à changer de couleur en fonction de l'éclairage dans lequel elle se trouve. En lumière du jour, elle présente une teinte verte à bleue-verte, tandis que sous un éclairage artificiel ou à la lumière des bougies, elle prend une teinte rouge à pourpre. Ce phénomène de changement de couleur est dû à la présence de chrome dans sa structure cristalline. 
+
+L'Alexandrite a longtemps été associée à la royauté et à la noblesse en raison de sa rareté et de son caractère unique. Elle est souvent considérée comme une pierre porte-bonheur et symbole de prospérité. Elle est également la pierre de naissance du mois de juin, ce qui en fait un choix apprécié pour les cadeaux d'anniversaire.
+
+En plus de sa beauté et de son caractère précieux, l'Alexandrite est aussi appréciée pour ses propriétés métaphysiques. On lui attribue des vertus de protection et de guérison, en plus de favoriser l'harmonie intérieure et l'équilibre émotionnel. 
+
+En raison de sa rareté et de sa beauté exceptionnelle, l'Alexandrite est une pierre très prisée dans le monde de la joaillerie et peut atteindre des prix très élevés sur le marché. Elle est souvent sertie dans des bagues, des boucles d'oreilles et des pendentifs pour mettre en valeur sa beauté changeante et captivante.

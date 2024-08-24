@@ -1,0 +1,9 @@
+La transcription génétique est un processus fondamental de la biologie moléculaire au cours duquel l'ADN est utilisé comme modèle pour produire une molécule d'ARN messager (ARNm). Cette étape est essentielle car elle permet à l'information contenue dans les gènes de l'ADN d'être transposée sous forme d'ARNm, qui peut ensuite être traduit en protéines.
+
+Le processus de transcription génétique commence par le déroulement de l'ADN double brin par l'enzyme ARN polymérase. Cette enzyme se lie à des régions spécifiques de l'ADN appelées promoteurs, qui indiquent le début d'un gène. Une fois liée à l'ADN, l'ARN polymérase commence à synthétiser une molécule d'ARN complémentaire à l'une des brins de l'ADN, en utilisant les nucléotides disponibles dans le noyau cellulaire.
+
+L'ARN polymérase déplace progressivement le long de l'ADN, créant une séquence d'ARNm complémentaire à celle de l'ADN. L'ARNm nouvellement synthétisé est ensuite modifié et traité avant d'être prêt à être traduit en protéine. Les modifications comprennent l'ajout d'une coiffe à l'extrémité 5' de l'ARNm et la polyadénylation de l'extrémité 3'.
+
+Une fois l'ARNm mature formé, il quitte le noyau cellulaire et se rend vers les ribosomes dans le cytoplasme, où la traduction a lieu. Les ribosomes lisent la séquence d'ARNm codant pour une protéine et assemblent les acides aminés correspondants pour former la protéine finale.
+
+En résumé, la transcription génétique est le processus par lequel l'information génétique contenue dans les gènes de l'ADN est copiée sous forme d'ARNm, qui sert de matrice pour la synthèse des protéines. Ce processus est crucial pour le fonctionnement des cellules et est régulé de manière précise pour assurer une expression génique appropriée.

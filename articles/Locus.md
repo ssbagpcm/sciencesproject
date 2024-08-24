@@ -1,0 +1,9 @@
+**Le Locus** est un terme qui provient du latin et qui signifie "lieu" ou "endroit". En psychologie, le concept de locus renvoie à la croyance qu'une personne a sur le contrôle de sa vie et de ses actions. Il existe deux types principaux de locus de contrôle : interne et externe.
+
+- **Locus de contrôle interne** : Les individus qui ont un locus de contrôle interne croient que leur propre comportement et leurs actions sont déterminants dans les événements qui se produisent dans leur vie. Ils pensent qu'ils ont la capacité de contrôler leur destin et d'influencer les résultats par leurs propres choix et efforts. Les personnes ayant un locus de contrôle interne sont souvent plus motivées, persévérantes et résilientes face aux défis.
+
+- **Locus de contrôle externe** : À l'opposé, les individus qui ont un locus de contrôle externe attribuent les événements de leur vie à des forces extérieures telles que la chance, le hasard, le destin ou encore les autres personnes. Ils ont tendance à se sentir impuissants à influencer les résultats et à croire que leur vie est largement dictée par des facteurs indépendants de leur volonté. Ces personnes peuvent être plus enclines à adopter une attitude passive et fataliste.
+
+Le concept de locus de contrôle a été introduit par le psychologue Julian B. Rotter dans les années 1950 et il a depuis été largement étudié dans le domaine de la psychologie et des sciences sociales. Il a des implications importantes dans de nombreux domaines tels que la santé mentale, la motivation, le bien-être, la réussite académique et professionnelle, ainsi que dans la prise de décision et la gestion du stress.
+
+En résumé, le locus de contrôle est un concept clé pour comprendre comment les individus perçoivent et interprètent leur environnement, leur vie et leurs expériences, et comment cette perception influence leur comportement et leurs résultats.

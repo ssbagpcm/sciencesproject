@@ -1,0 +1,7 @@
+L'adénohypophyse, également appelée lobe antérieur de l'hypophyse, est une glande endocrine située à la base du cerveau, juste en dessous de l'hypothalamus. Elle fait partie de l'hypophyse, une petite glande en forme de pois qui joue un rôle crucial dans la régulation de nombreuses fonctions du corps. 
+
+L'adénohypophyse produit et libère plusieurs hormones essentielles pour le fonctionnement du corps. Ces hormones comprennent l'hormone de croissance, qui stimule la croissance des os, des muscles et des tissus, ainsi que l'hormone adréno-corticotrope, qui régule la production de cortisol par les glandes surrénales en réponse au stress. 
+
+En plus de ces hormones, l'adénohypophyse produit également des hormones qui régulent la fonction des glandes thyroïde, surrénales et reproductives. Ces hormones sont essentielles pour de nombreuses fonctions physiologiques, telles que le métabolisme, la réponse au stress, la reproduction et la croissance.
+
+En résumé, l'adénohypophyse est une glande endocrine vitale qui joue un rôle essentiel dans la régulation de nombreuses fonctions du corps en produisant et en libérant des hormones clés qui influencent le fonctionnement de divers organes et systèmes dans l'organisme.

@@ -1,0 +1,8 @@
+**Le Polynucléotide**
+Un polynucléotide est une macromolécule biologique constituée de nombreux nucléotides liés entre eux par des liaisons phosphodiester. Les nucléotides sont les monomères de base qui composent les acides nucléiques, tels que l'ADN et l'ARN. Chaque nucléotide est composé d'une base azotée (adénine, thymine, cytosine, guanine dans le cas de l'ADN ; adénine, uracile, cytosine, guanine dans le cas de l'ARN), d'un sucre (désoxyribose dans l'ADN ; ribose dans l'ARN) et d'un groupement phosphate.
+
+Lorsque de nombreux nucléotides sont liés ensemble par des liaisons covalentes pour former une chaîne linéaire, on obtient un polynucléotide. Dans le cas de l'ADN, les nucléotides sont liés par des liaisons phosphodiester entre le groupement phosphate d'un nucléotide et le carbone 3' du sucre du nucléotide suivant. Cette structure en chaîne permet de stocker et transmettre l'information génétique dans les cellules vivantes.
+
+Les polynucléotides sont essentiels à la vie car ils jouent un rôle crucial dans de nombreuses fonctions biologiques, telles que la réplication de l'ADN, la transcription de l'ADN en ARN et la traduction de l'ARN en protéines. Ils sont également impliqués dans la régulation de l'expression des gènes et dans de nombreux processus cellulaires et métaboliques.
+
+En résumé, un polynucléotide est une longue chaîne de nucléotides liés entre eux qui constitue les acides nucléiques et qui est essentiel pour le fonctionnement et la survie des organismes vivants.

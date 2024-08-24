@@ -1,0 +1,7 @@
+La cytotoxicité est un processus biologique par lequel certaines cellules ont la capacité de détruire des cellules cibles ou de provoquer leur mort. Ce phénomène joue un rôle crucial dans le système immunitaire, où les cellules cytotoxiques sont capables de reconnaître et d'éliminer les cellules infectées par des agents pathogènes tels que des virus ou des bactéries.
+
+La cytotoxicité peut être médiée par différents mécanismes, tels que la libération de molécules cytotoxiques, telles que les perforines et les granzymes, qui induisent la mort cellulaire programmée, ou par l'activation de voies de signalisation aboutissant à l'apoptose des cellules cibles. Les cellules cytotoxiques peuvent également induire la mort cellulaire en induisant une nécrose ou en activant des récepteurs de mort cellulaires spécifiques.
+
+La cytotoxicité est également exploitée en thérapie contre le cancer, où des agents cytotoxiques sont utilisés pour détruire sélectivement les cellules cancéreuses. Ces agents peuvent agir en perturbant la division cellulaire, en inhibant la réplication de l'ADN ou en provoquant des dommages à l'ADN des cellules tumorales.
+
+En résumé, la cytotoxicité est un processus biologique essentiel qui peut être à la fois bénéfique, en éliminant les cellules infectées ou anormales, et potentiellement nocif, lorsqu'il est excessif ou non régulé. Son étude est cruciale pour la compréhension des mécanismes de défense de l'organisme, ainsi que pour le développement de nouvelles thérapies contre les maladies telles que le cancer.

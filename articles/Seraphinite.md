@@ -1,0 +1,9 @@
+Le Seraphinite est une pierre précieuse rare et magnifique qui est souvent utilisée en bijouterie et en lithothérapie pour ses propriétés uniques. Cette pierre tire son nom des séraphins, des anges de la hiérarchie céleste, en raison de sa couleur verte chatoyante qui rappelle les ailes des anges.
+
+Originaire de Russie, le Seraphinite est composé de chlorite, de magnésite et de silicate de fer, ce qui lui confère une apparence striée et chatoyante. Sa couleur vert clair à foncé est souvent agrémentée de reflets argentés, lui donnant un aspect vraiment unique et mystérieux. C'est une pierre qui est souvent considérée comme étant protectrice et énergisante, aidant à équilibrer les émotions et à favoriser le bien-être physique et mental.
+
+En lithothérapie, le Seraphinite est utilisé pour stimuler le chakra du coeur et favoriser l'amour inconditionnel, la guérison émotionnelle et la compassion envers soi-même et les autres. Il est également connu pour aider à attirer le succès et la prospérité dans la vie de celui qui le porte.
+
+En bijouterie, le Seraphinite est souvent taillé en cabochon ou en pierre facettée pour mettre en valeur sa beauté naturelle. On le trouve généralement monté sur des bagues, des pendentifs ou des boucles d'oreilles, apportant une touche d'élégance et de mystère à chaque tenue.
+
+En résumé, le Seraphinite est une pierre précieuse aux propriétés uniques et puissantes, tant sur le plan énergétique que esthétique. Que ce soit porté en bijoux ou utilisé en lithothérapie, le Seraphinite est une pierre qui attire l'attention et qui est souvent considérée comme un véritable trésor de la Terre.

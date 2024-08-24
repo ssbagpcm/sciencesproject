@@ -1,0 +1,7 @@
+**La malachite** est un minéral de la famille des carbonates. C'est une pierre de couleur verte, souvent striée ou marbrée de bandes plus claires ou plus foncées. La malachite est principalement composée de carbonate de cuivre et possède une couleur vert vif due à la présence de cuivre dans sa composition. Elle est généralement associée à des gisements de cuivre et est souvent trouvée dans des roches sédimentaires riches en minerais de cuivre.
+
+La malachite a été utilisée depuis des millénaires à des fins ornementales et artistiques. Elle a été taillée en bijoux, sculptures et objets décoratifs, et son utilisation remonte à l'Egypte antique, où elle était utilisée pour la fabrication de bijoux et d'objets d'art. Elle a également été utilisée comme pigment dans la peinture.
+
+Sur le plan spirituel et ésotérique, la malachite est considérée comme une pierre de transformation et de protection. Elle est censée apporter équilibre et harmonie, aider à surmonter les peurs et les blocages émotionnels, et favoriser la croissance personnelle.
+
+En raison de sa nature poreuse, la malachite doit être manipulée avec précaution et protégée de l'humidité et des produits chimiques. Elle peut également être sensible à la chaleur et à la lumière directe du soleil, qui peuvent altérer sa couleur et sa composition. En raison de sa beauté naturelle et de ses propriétés uniques, la malachite est toujours très recherchée en tant que gemme et objet de collection.

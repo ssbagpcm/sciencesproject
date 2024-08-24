@@ -1,0 +1,7 @@
+Le virus de la dengue est un arbovirus de la famille des Flaviviridae, transmis principalement par les moustiques du genre Aedes, en particulier Aedes aegypti. Il existe quatre sérotypes différents du virus de la dengue (DEN-1, DEN-2, DEN-3, DEN-4), ce qui signifie qu'une personne peut être infectée par l'un des quatre types différents au cours de sa vie. 
+
+La dengue est une maladie virale qui se manifeste par de la fièvre, des maux de tête, des douleurs musculaires et articulaires, des éruptions cutanées et des symptômes similaires à ceux de la grippe. Dans les cas les plus graves, la dengue peut évoluer vers une forme sévère appelée dengue sévère, qui peut entraîner des complications graves telles que des saignements, une insuffisance d'organes et, dans certains cas, la mort.
+
+La transmission de la dengue se fait par la piqûre d'un moustique infecté, généralement pendant la journée. Les régions tropicales et subtropicales sont les plus touchées par la dengue, mais elle peut également se propager dans des zones tempérées en cas de changements climatiques favorables à la prolifération des moustiques vecteurs.
+
+Il n'existe pas de traitement spécifique contre la dengue, mais il est important de traiter les symptômes, de se reposer et de boire beaucoup de liquides pour éviter la déshydratation. La prévention de la dengue passe essentiellement par la lutte contre les moustiques vecteurs, en éliminant les gîtes larvaires et en utilisant des répulsifs et des moustiquaires pour se protéger des piqûres.

@@ -1,0 +1,15 @@
+L'hydrologie souterraine est une branche de l'hydrologie qui étudie le mouvement, la distribution et la qualité de l'eau souterraine dans les aquifères et les formations géologiques souterraines. Cette discipline est essentielle pour comprendre la gestion durable des ressources en eau et leur utilisation dans divers contextes, tels que l'approvisionnement en eau potable, l'agriculture, l'industrie et la protection de l'environnement.
+
+### Principaux concepts de l'hydrologie souterraine :
+
+1. **Aquifères :** Les aquifères sont des formations géologiques perméables capables de stocker et de transmettre de grandes quantités d'eau souterraine. Ils peuvent être constitués de roches poreuses telles que le sable, le gravier ou de roches karstiques comme le calcaire. L'hydrologie souterraine étudie la géométrie, la perméabilité et les propriétés hydrauliques des aquifères pour comprendre leur comportement hydrologique.
+
+2. **Écoulement de l'eau souterraine :** L'eau souterraine se déplace à travers les aquifères sous l'influence de gradients de pression hydraulique, généralement du haut vers le bas ou des zones de recharge vers les zones de décharge. L'hydrologie souterraine analyse les processus d'écoulement, y compris les phénomènes de recharge, de décharge, d'écoulement souterrain et d'interaction entre l'eau souterraine et les cours d'eau de surface.
+
+3. **Captage et exploitation de l'eau souterraine :** Les puits et les forages sont utilisés pour extraire l'eau souterraine à des fins diverses, notamment l'approvisionnement en eau potable, l'irrigation agricole et l'industrie. L'hydrologie souterraine évalue les ressources en eau souterraine, les taux de prélèvement durables et les impacts potentiels sur les écosystèmes et les autres usages de l'eau.
+
+4. **Qualité de l'eau souterraine :** L'hydrologie souterraine analyse la qualité chimique et biologique de l'eau souterraine, y compris la présence de polluants tels que les nitrates, les métaux lourds, les pesticides et les hydrocarbures. La contamination de l'eau souterraine peut avoir des conséquences graves sur la santé humaine et l'environnement, ce qui nécessite une surveillance continue et des mesures de protection.
+
+5. **Modélisation hydrogéologique :** Les modèles hydrogéologiques sont des outils essentiels pour simuler et prévoir le comportement des systèmes hydrologiques souterrains. Ils intègrent des données géologiques, hydrologiques, hydrochimiques et topographiques pour simuler les processus d'écoulement et de transport de l'eau souterraine, ainsi que pour évaluer les impacts des activités humaines sur les ressources en eau.
+
+En résumé, l'hydrologie souterraine est une discipline interdisciplinaire qui étudie le mouvement, la distribution et la qualité de l'eau souterraine dans les aquifères et les formations géologiques souterraines. Elle joue un rôle crucial dans la gestion durable des ressources en eau et la protection de l'environnement.

@@ -1,0 +1,9 @@
+**La biopréservation**, également connue sous le nom de conservation biologique, est un processus utilisé pour préserver les aliments en utilisant des micro-organismes naturels comme les bactéries lactiques, les levures et les moisissures. Ces micro-organismes produisent des composés qui inhibent la croissance des bactéries pathogènes et des moisissures responsables de la détérioration des aliments.
+
+L'objectif principal de la biopréservation est de prolonger la durée de conservation des aliments sans recourir à des agents de conservation chimiques. Les micro-organismes utilisés dans la biopréservation sont généralement des souches probiotiques ou des cultures starter qui sont considérées comme sûres pour la consommation humaine.
+
+Les avantages de la biopréservation incluent une meilleure sécurité alimentaire, une réduction de l'utilisation d'additifs chimiques, une préservation des qualités sensorielles des aliments et une diminution du gaspillage alimentaire. De plus, la biopréservation est souvent perçue comme une méthode plus naturelle et respectueuse de l'environnement pour conserver les aliments.
+
+Il existe différentes techniques de biopréservation, telles que la fermentation, l'ajout de bactériocines (protéines antibactériennes produites par certaines bactéries) ou l'utilisation de cultures microbiennes spécifiques. Ces techniques peuvent être appliquées à divers produits alimentaires tels que la viande, les produits laitiers, les fruits et légumes, les boissons fermentées, etc.
+
+En résumé, la biopréservation est une approche innovante et durable pour conserver les aliments de manière naturelle en utilisant des micro-organismes bénéfiques. Elle offre une alternative prometteuse aux méthodes traditionnelles de conservation des aliments et répond aux exigences croissantes des consommateurs en matière de sécurité alimentaire et de durabilité.

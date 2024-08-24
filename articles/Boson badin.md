@@ -1,0 +1,13 @@
+**Le Boson badin**, également connu sous le nom de **boson de Higgs**, est une particule élémentaire du modèle standard de la physique des particules. Il a été postulé pour la première fois en 1964 par plusieurs physiciens, dont Peter Higgs, François Englert et Robert Brout. 
+
+Selon le modèle standard, les particules élémentaires acquièrent leur masse grâce à l'interaction avec un champ appelé **champ de Higgs**. Ce champ remplit tout l'univers et interagit avec les particules lorsqu'elles se déplacent à travers lui. Lorsque les particules interagissent avec le champ de Higgs, elles "acquièrent" une certaine quantité de masse.
+
+Le boson de Higgs est le quantum (ou la particule) associé à ce champ de Higgs. Sa découverte expérimentale a été annoncée en juillet 2012 par les expériences ATLAS et CMS au Grand Collisionneur de Hadrons (LHC) du CERN. Cette découverte a été saluée comme une étape majeure dans notre compréhension de la structure fondamentale de l'univers.
+
+La recherche du boson de Higgs a été motivée par le désir de comprendre pourquoi certaines particules, comme les quarks et les électrons, ont une masse tandis que d'autres, comme les photons, sont sans masse. La théorie prédisait l'existence de cette particule, mais il a fallu des décennies de recherches et d'expériences pour la détecter finalement.
+
+Le boson de Higgs est une particule très instable et se désintègre presque immédiatement après sa création. Il ne peut donc pas être détecté directement, mais sa présence peut être inférée à partir des produits de sa désintégration. Les expériences menées au LHC ont utilisé de puissants détecteurs pour enregistrer les traces des particules issues des désintégrations du boson de Higgs.
+
+La découverte du boson de Higgs a eu un impact profond sur la physique des particules et notre compréhension de l'univers. Elle confirme l'existence du champ de Higgs et fournit un mécanisme pour expliquer l'origine de la masse des particules. Cette avancée majeure a été récompensée par le prix Nobel de physique en 2013, décerné conjointement à Peter Higgs et François Englert.
+
+En résumé, le Boson badin, ou boson de Higgs, est une particule élémentaire qui joue un rôle clé dans l'acquisition de masse par les particules du modèle standard de la physique des particules. Sa découverte a été une étape importante pour valider cette théorie et améliorer notre compréhension de l'univers.

@@ -1,0 +1,7 @@
+Le terme "dorsal" peut se référer à plusieurs choses en anatomie et en biologie. En anatomie humaine, le terme "dorsal" est généralement utilisé pour désigner la partie postérieure du corps, c'est-à-dire la région située à l'arrière ou au dos. Par exemple, on parle de la face dorsale de la main pour désigner la partie supérieure de la main, opposée à la paume.
+
+En biologie, le terme "dorsal" est souvent utilisé pour désigner une position ou une orientation spécifique chez les animaux. Dans le cas des animaux bilatéraux, comme les vertébrés, la partie dorsale du corps fait référence au dos ou au dessus de l'organisme. Par exemple, chez un poisson, la nageoire dorsale est celle située sur le dos de l'animal.
+
+Enfin, le terme "dorsal" peut également être utilisé pour décrire des structures anatomiques spécifiques, telles que la racine dorsale d'un nerf spinal, qui fait référence à la partie de la moelle épinière où les fibres nerveuses sensorielles pénètrent.
+
+Ainsi, le terme "dorsal" peut avoir différentes significations en fonction du contexte anatomique ou biologique dans lequel il est utilisé, mais il fait généralement référence à la partie arrière, supérieure ou dorsale d'un organisme ou d'une structure anatomique.

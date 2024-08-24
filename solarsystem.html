@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Solar System 3D</title>
+    <style>
+      body {
+        overflow: hidden;
+        margin: 0;
+        cursor: none;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="./js/solarSystem.js" type="module"></script>
+    
+    <!-- Script pour envoyer les événements de touche au parent -->
+    <script>
+      document.addEventListener('keydown', (event) => {
+        if (['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) {
+            event.preventDefault();
+            window.parent.postMessage({ key: event.key }, '*');
+        }
+    });
+  </script> 
+  </body>
+</html>

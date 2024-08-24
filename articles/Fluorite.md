@@ -1,0 +1,7 @@
+**La Fluorite** est un minéral composé de fluorure de calcium (CaF2) qui se présente sous forme de cristaux octaédriques ou cubiques, de couleur variée allant du violet, au bleu, au vert, au jaune, au rose et même au transparent. Ce minéral est souvent utilisé dans l'industrie chimique pour la production d'acide fluorhydrique et d'aluminium, ainsi que dans l'industrie métallurgique pour la fusion de l'acier et d'autres métaux.
+
+En plus de son utilisation industrielle, la Fluorite est également très prisée en gemmologie pour la création de bijoux et d'objets décoratifs. En raison de sa belle gamme de couleurs et de ses propriétés optiques, la Fluorite est souvent taillée en cabochons ou en facette pour en faire des pierres précieuses.
+
+Sur le plan spirituel et ésotérique, la Fluorite est considérée comme une pierre protectrice qui aide à purifier, équilibrer et stabiliser les énergies. Elle est utilisée pour attirer l'intuition, la clarté mentale et la concentration, tout en éliminant les énergies négatives et en favorisant l'équilibre émotionnel.
+
+En résumé, la Fluorite est un minéral polyvalent qui trouve des applications aussi bien dans l'industrie que dans la bijouterie et la lithothérapie. Sa beauté naturelle et ses propriétés physiques et spirituelles en font un minéral apprécié et recherché par de nombreux passionnés et collectionneurs.

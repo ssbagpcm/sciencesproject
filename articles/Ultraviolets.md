@@ -1,0 +1,7 @@
+**Les rayons ultraviolets (UV)** sont une forme de rayonnement électromagnétique invisible provenant du soleil. Ils se situent juste après la lumière violette dans le spectre électromagnétique et sont divisés en trois catégories selon leur longueur d'onde : les UV-A, les UV-B et les UV-C.
+
+Les UV-A ont la plus longue longueur d'onde parmi les trois types d'UV et peuvent pénétrer profondément dans la peau, contribuant au vieillissement prématuré et à certains types de cancers de la peau. Les UV-B ont une longueur d'onde intermédiaire et sont principalement responsables des coups de soleil et des cancers de la peau. Enfin, les UV-C ont la plus courte longueur d'onde et sont filtrés par la couche d'ozone de la Terre, ne parvenant donc pas jusqu'à la surface terrestre.
+
+Une exposition excessive aux rayons ultraviolets peut avoir des effets néfastes sur la santé, tels que des brûlures, des coups de soleil, un affaiblissement du système immunitaire, des cataractes et des mutations génétiques pouvant conduire au cancer de la peau. C'est pourquoi il est recommandé de se protéger du soleil en utilisant des crèmes solaires, des vêtements protecteurs et des lunettes de soleil, surtout pendant les heures où l'intensité des UV est la plus élevée.
+
+En conclusion, bien que les rayons ultraviolets soient essentiels pour divers processus biologiques tels que la synthèse de la vitamine D, il est crucial de s'en protéger adéquatement pour prévenir les effets nocifs sur la santé.

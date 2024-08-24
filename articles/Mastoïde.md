@@ -1,0 +1,11 @@
+La **mastoïde** est une partie de l'os temporal, qui est situé dans la région latérale et inférieure du crâne humain. Plus précisément, la mastoïde est une saillie osseuse pyramidale située à la base du crâne, juste derrière l'oreille externe. Elle tire son nom du mot grec "mastoidês", qui signifie "semblable à un sein", en raison de sa forme caractéristique.
+
+La mastoïde est composée d'une structure osseuse spongieuse recouverte d'une fine couche d'os compact. Elle est creuse à l'intérieur, formant de petites cavités appelées cellules mastoïdiennes. Ces cellules sont interconnectées et remplies d'air, ce qui les rend similaires aux cavités des sinus.
+
+La principale fonction de la mastoïde est de servir de point d'ancrage pour certains muscles du cou et du crâne, notamment le muscle sterno-cléido-mastoïdien, qui s'attache à sa surface externe. De plus, la structure complexe des cellules mastoïdiennes contribue à la résonance sonore et à la régulation de la pression dans l'oreille moyenne, ce qui est important pour l'audition.
+
+Cliniquement, la mastoïde peut être le site de diverses affections médicales. Par exemple, une infection des cellules mastoïdiennes, appelée mastoïdite, peut se développer à la suite d'une infection de l'oreille moyenne non traitée. La mastoïdite peut entraîner des symptômes tels que douleur et gonflement derrière l'oreille, fièvre, perte auditive et écoulement purulent de l'oreille.
+
+En chirurgie otologique, la mastoïdectomie est une procédure dans laquelle une partie ou la totalité de la mastoïde est enlevée pour traiter certaines affections de l'oreille moyenne ou pour accéder à des structures adjacentes, telles que les osselets de l'oreille ou la cochlée, lors de la chirurgie de l'oreille interne.
+
+En résumé, la mastoïde est une saillie osseuse située à la base du crâne, derrière l'oreille externe, qui remplit des fonctions importantes liées à l'audition, à l'ancrage musculaire et à la régulation de la pression dans l'oreille moyenne. Elle peut être le site de diverses affections médicales et est souvent impliquée dans les procédures chirurgicales otologiques.

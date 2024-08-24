@@ -1,0 +1,7 @@
+L'évolution est un processus naturel qui décrit comment les espèces vivantes changent et se modifient au fil du temps. Cette théorie, développée initialement par Charles Darwin dans son livre "De l'origine des espèces", repose sur le principe de la sélection naturelle. Selon ce concept, les individus les mieux adaptés à leur environnement sont plus susceptibles de survivre et de se reproduire, transmettant ainsi leurs caractéristiques avantageuses à leur descendance. 
+
+Au fil des générations, ces petits changements s'accumulent et peuvent conduire à l'émergence de nouvelles espèces. Ce processus d'évolution peut se produire sur de longues périodes de temps, par le biais de mutations génétiques, de la dérive génétique, de la migration des populations et de la pression sélective exercée par l'environnement. 
+
+L'évolution explique la diversité du vivant sur Terre et comment toutes les formes de vie actuelles sont liées par un ancêtre commun. Elle joue un rôle crucial dans la compréhension de la biologie et de l'écologie, et est corroborée par de nombreuses preuves issues de disciplines variées telles que la biologie moléculaire, la paléontologie, la biogéographie et la génétique des populations. 
+
+En somme, l'évolution est un concept fondamental en biologie qui permet de mieux appréhender l'histoire et la complexité de la vie sur Terre.

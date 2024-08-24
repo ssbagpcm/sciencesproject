@@ -1,0 +1,11 @@
+Le rayon réfractaire, également appelé indice de réfraction, est une propriété optique d'un matériau qui mesure sa capacité à dévier la lumière lorsqu'elle passe à travers lui. C'est un concept important en optique et en physique des matériaux, car il permet de comprendre comment les matériaux interagissent avec la lumière.
+
+L'indice de réfraction est défini comme le rapport de la vitesse de la lumière dans le vide à la vitesse de la lumière dans le matériau. Il est généralement représenté par la lettre "n" et peut varier en fonction de la longueur d'onde de la lumière incidente. Cela signifie que différents types de lumière, tels que la lumière visible, les ultraviolets ou les infrarouges, peuvent avoir des indices de réfraction différents dans un même matériau.
+
+La déviation de la lumière causée par le rayon réfractaire est due à l'interaction entre les photons de lumière et les atomes ou les molécules constituant le matériau. Lorsque la lumière passe d'un milieu à un autre avec un indice de réfraction différent, elle change de direction en se pliant. Ce phénomène est connu sous le nom de réfraction.
+
+La loi de Snell-Descartes, développée par les mathématiciens Willebrord Snell et René Descartes au XVIIe siècle, permet de calculer l'angle de réfraction à partir de l'angle d'incidence et des indices de réfraction des deux milieux impliqués. Cette loi établit une relation fondamentale entre les angles de la lumière incidente et réfractée, ainsi que les indices de réfraction des deux milieux.
+
+Il convient également de noter que le rayon réfractaire peut varier en fonction de la température, de la pression et de la densité du matériau. Certains matériaux, tels que les cristaux, peuvent avoir un rayon réfractaire anisotrope, ce qui signifie qu'il peut varier en fonction de la direction de propagation de la lumière à l'intérieur du matériau.
+
+En conclusion, le rayon réfractaire est une propriété optique fondamentale d'un matériau qui détermine sa capacité à dévier la lumière lorsqu'elle passe à travers lui. Il peut être calculé à l'aide de l'indice de réfraction, qui représente le rapport de la vitesse de la lumière dans le vide à la vitesse de la lumière dans le matériau. La loi de Snell-Descartes permet de prédire la déviation de la lumière en fonction des angles d'incidence et des indices de réfraction des milieux impliqués.

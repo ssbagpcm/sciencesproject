@@ -1,0 +1,7 @@
+Le Récepteur aux cytokines est une protéine située à la surface des cellules qui est impliquée dans la régulation de divers processus biologiques en réponse aux cytokines, qui sont des molécules de signalisation cellulaire impliquées dans la régulation du système immunitaire, de l'inflammation et de la réponse aux infections. 
+
+Les récepteurs aux cytokines sont caractérisés par leur capacité à reconnaître spécifiquement certaines cytokines et à déclencher des cascades de signalisation à l'intérieur de la cellule en réponse à leur liaison. Ces cascades de signalisation peuvent conduire à l'activation de différentes voies cellulaires, telles que la différenciation cellulaire, la prolifération cellulaire, la migration cellulaire ou la production de cytokines supplémentaires.
+
+Il existe plusieurs types de récepteurs aux cytokines, qui peuvent être classés en différentes familles en fonction de leur structure et de leur mode de signalisation. Par exemple, certains récepteurs aux cytokines ont une structure en homodimère ou en hétérodimère, ce qui signifie qu'ils sont composés de deux sous-unités identiques ou différentes, respectivement.
+
+En résumé, le Récepteur aux cytokines joue un rôle crucial dans la communication intercellulaire en permettant aux cellules de détecter et de répondre aux signaux provenant de leur environnement, notamment en régulant des processus vitaux tels que l'immunité et l'inflammation.

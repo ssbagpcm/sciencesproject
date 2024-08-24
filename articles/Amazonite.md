@@ -1,0 +1,7 @@
+**L'Amazonite** est une variété de microcline, qui est une forme de feldspath. C'est une pierre semi-précieuse de couleur verte, souvent avec des striures blanches. Elle a été nommée d'après le fleuve Amazone, bien qu'il n'y ait pas de preuves qu'elle soit présente dans la région amazonienne. L'Amazonite est souvent utilisée en bijouterie et en décoration.
+
+Sur le plan spirituel et ésotérique, l'Amazonite est associée à la guérison émotionnelle et à la communication. Elle est censée aider à apaiser les émotions et à favoriser l'expression de soi. Certains croient que l'Amazonite aide à équilibrer les énergies du cœur et de la gorge, favorisant ainsi la communication authentique et la clarté émotionnelle.
+
+En lithothérapie, l'Amazonite est utilisée pour soulager le stress et l'anxiété, ainsi que pour favoriser la confiance en soi et la créativité. Certains pensent qu'elle a des propriétés apaisantes qui aident à calmer les émotions en période de tension ou de conflit.
+
+En résumé, l'Amazonite est une pierre semi-précieuse de couleur verte, associée à la guérison émotionnelle et à la communication. Elle est utilisée en bijouterie, en décoration et en lithothérapie pour ses propriétés apaisantes et équilibrantes.

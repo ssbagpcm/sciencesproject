@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#⨜.৻.Ι.Ξ.Π.৻.Ξ.⨜</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            font-family: Arial, sans-serif;
+            background-color: #000000;
+            color: #ffffff;
+            cursor: url('./image/cursor.png'), auto;
+        }
+
+        #container {
+            display: flex;
+            width: 300vw;
+            height: 100vh;
+            transition: transform 1s ease;
+        }
+
+        .main-section {
+            width: 100vw;
+            height: 100vh;
+            flex-shrink: 0;
+            transition: opacity 1s ease, transform 1s ease, filter 1s ease;
+            opacity: 0;
+            transform: scale(0.8) rotateY(10deg);
+            filter: brightness(70%) blur(10px);
+            overflow: hidden;
+        }
+
+        #left-section {
+            position: relative;
+            overflow: hidden;
+        }
+
+        #vertical-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 300vh;
+            transition: transform 1s ease;
+        }
+
+        .vertical-section {
+            width: 100%;
+            height: 100vh;
+            transition: opacity 1s ease, transform 1s ease, filter 1s ease;
+            opacity: 0;
+            transform: scale(0.8) rotateX(10deg);
+            filter: brightness(70%) blur(10px);
+        }
+
+        .iframe-container {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        .iframe-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .grid-background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+                linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+            background-size: 50px 50px;
+            pointer-events: none;
+            z-index: -1;
+            animation: gridPulse 10s infinite alternate;
+        }
+
+        @keyframes gridPulse {
+            0% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="left-section" class="main-section">
+            <div id="vertical-container">
+                <div class="vertical-section">
+                    <div class="iframe-container">
+                        <iframe src="solarsystem.html"></iframe>
+                    </div>
+                </div>
+                <div class="vertical-section">
+                    <div class="iframe-container">
+                        <iframe src="1.html"></iframe>
+                    </div>
+                </div>
+                <div class="vertical-section">
+                    <div class="iframe-container">
+                        <iframe src="2.html"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="middle-section" class="main-section">
+            <div class="iframe-container">
+                <iframe src="presentation.html"></iframe>
+            </div>
+        </div>
+
+        <div id="right-section" class="main-section">
+            <div class="iframe-container">
+                <iframe src="chatgpt.html"></iframe>
+            </div>
+        </div>
+    </div>
+
+    <div class="grid-background"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+    const container = document.getElementById('container');
+    const mainSections = document.querySelectorAll('.main-section');
+    const verticalContainer = document.getElementById('vertical-container');
+    const verticalSections = document.querySelectorAll('.vertical-section');
+    let currentMainIndex = 1; // Changé de 0 à 1
+    let currentVerticalIndex = 0;
+
+    function updateMainSection() {
+        mainSections.forEach((section, index) => {
+            if (index === currentMainIndex) {
+                section.style.opacity = 1;
+                section.style.transform = 'scale(1) rotateY(0deg)';
+                section.style.filter = 'brightness(100%) blur(0)';
+            } else {
+                section.style.opacity = 0;
+                section.style.transform = 'scale(0.8) rotateY(10deg)';
+                section.style.filter = 'brightness(70%) blur(10px)';
+            }
+        });
+        container.style.transform = `translateX(-${currentMainIndex * 100}vw)`;
+    }
+
+    function updateVerticalSection() {
+        verticalSections.forEach((section, index) => {
+            if (index === currentVerticalIndex) {
+                section.style.opacity = 1;
+                section.style.transform = 'scale(1) rotateX(0deg)';
+                section.style.filter = 'brightness(100%) blur(0)';
+            } else {
+                section.style.opacity = 0;
+                section.style.transform = 'scale(0.8) rotateX(10deg)';
+                section.style.filter = 'brightness(70%) blur(10px)';
+            }
+        });
+        verticalContainer.style.transform = `translateY(-${currentVerticalIndex * 100}vh)`;
+    }
+
+    updateMainSection();
+    updateVerticalSection();
+
+    function handleKeyNavigation(key) {
+        if (key === 'ArrowLeft') {
+            if (currentMainIndex > 0) {
+                currentMainIndex--;
+                updateMainSection();
+            }
+        } else if (key === 'ArrowRight') {
+            if (currentMainIndex < mainSections.length - 1) {
+                currentMainIndex++;
+                updateMainSection();
+            }
+        } else if (key === 'ArrowUp') {
+            if (currentMainIndex === 0 && currentVerticalIndex > 0) {
+                currentVerticalIndex--;
+                updateVerticalSection();
+            }
+        } else if (key === 'ArrowDown') {
+            if (currentMainIndex === 0 && currentVerticalIndex < verticalSections.length - 1) {
+                currentVerticalIndex++;
+                updateVerticalSection();
+            }
+        }
+    }
+
+    document.addEventListener('keydown', (event) => {
+        handleKeyNavigation(event.key);
+    });
+
+    window.addEventListener('message', (event) => {
+        if (event.data.key) {
+            handleKeyNavigation(event.data.key);
+        }
+    });
+});
+
+    </script>
+</body>
+</html>

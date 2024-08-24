@@ -1,0 +1,719 @@
+<html><head><base href=""><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>Minimalist Chat Interface</title><style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+  
+  :root {
+    --bg-color: #000000;
+    --text-color: #ffffff;
+    --border-color: #222222;
+    --input-bg: #0a0a0a;
+    --accent-color: #111111;
+    --menu-bg: #050505;
+    --hover-color: #1a1a1a;
+    --popup-bg: rgba(10, 10, 10, 0.95);
+    --mint-green: #98FB98;
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    cursor: url('cursor.png'), auto !important;
+  }
+  
+  body, html {
+    height: 100%;
+    font-family: 'Poppins', Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    overflow: hidden;
+    user-select: none;
+  }
+  
+  .chat-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .chat-messages {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    scrollbar-width: thin;
+    scrollbar-color: var(--accent-color) var(--bg-color);
+  }
+  
+  .chat-messages::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .chat-messages::-webkit-scrollbar-track {
+    background: var(--bg-color);
+  }
+  
+  .chat-messages::-webkit-scrollbar-thumb {
+    background-color: var(--accent-color);
+    border-radius: 6px;
+  }
+  
+  .message {
+    max-width: 80%;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border-radius: 0.8rem;
+    line-height: 1.4;
+    position: relative;
+    word-wrap: break-word;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-color);
+  }
+  
+  .user-message {
+    align-self: flex-end;
+    background-color: var(--accent-color);
+    color: var(--text-color);
+  }
+  
+  .ai-message {
+    align-self: flex-start;
+    background-color: var(--input-bg);
+    color: var(--text-color);
+    user-select: text;
+  }
+  
+  .ai-message *::selection {
+      background-color: #98FB98;
+      color: #000000;
+  }
+  
+  .chat-input {
+    display: flex;
+    justify-content: center;
+    padding: 1.2rem;
+    background-color: var(--bg-color);
+    border-top: 1px solid var(--border-color);
+    position: sticky;
+    bottom: 0;
+  }
+  
+  .chat-input-wrapper {
+    display: flex;
+    width: 50%;
+    background-color: var(--input-bg);
+    border-radius: 1.5rem;
+    overflow: hidden;
+    transition: all 0.3s ease;
+  }
+  
+  .chat-input textarea {
+    flex-grow: 1;
+    padding: 0.8rem 1.2rem;
+    border: none;
+    font-size: 0.9rem;
+    font-family: 'Poppins', Arial, sans-serif;
+    background-color: transparent;
+    color: var(--text-color);
+    resize: none;
+    min-height: 20px;
+    max-height: 150px;
+    transition: all 0.3s ease;
+  }
+  
+  .chat-input textarea:focus {
+    outline: none;
+  }
+  
+  .chat-input textarea::selection {
+    background-color: var(--mint-green);
+    color: #000000;
+  }
+  
+  .send-btn {
+    background-color: var(--accent-color);
+    border: none;
+    color: var(--text-color);
+    font-size: 1rem;
+    padding: 0.6rem 1.2rem;
+    transition: all 0.3s ease;
+    border-radius: 0 1.5rem 1.5rem 0;
+  }
+  
+  .send-btn:hover {
+    background-color: var(--hover-color);
+  }
+  
+  /* Menu Button Styles */
+  .menu-btn {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    background: none;
+    border: none;
+    z-index: 1000;
+    transition: all 0.3s ease;
+  }
+  
+  .menu-btn:hover {
+    transform: scale(1.1);
+  }
+  
+  .menu-btn svg {
+    width: 20px;
+    height: 20px;
+    fill: var(--text-color);
+  }
+  
+  /* Conversation Menu Styles */
+  .conversation-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 280px;
+    height: 100%;
+    background-color: var(--menu-bg);
+    transition: transform 0.3s ease;
+    overflow-y: auto;
+    padding: 1.5rem;
+    box-shadow: 2px 0 15px rgba(0,0,0,0.3);
+    z-index: 999;
+    transform: translateX(-100%);
+  }
+  
+  .conversation-menu.open {
+    transform: translateX(0);
+  }
+  
+  .conversation-list {
+    list-style-type: none;
+    margin-top: 1.5rem;
+    user-select: none;
+  }
+  
+  .conversation-item {
+    padding: 0.8rem;
+    margin-bottom: 0.4rem;
+    background-color: var(--input-bg);
+    border-radius: 0.4rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 0.9rem;
+  }
+  
+  .conversation-item:hover {
+    background-color: var(--hover-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  }
+  
+  .menu-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .menu-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--text-color);
+  }
+  
+  .menu-actions {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  
+  .menu-btn-action {
+    background-color: var(--accent-color);
+    border: none;
+    color: var(--text-color);
+    padding: 0.6rem 1rem;
+    border-radius: 1.5rem;
+    transition: all 0.3s ease;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  .menu-btn-action:hover {
+    background-color: var(--hover-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+  }
+  
+  /* Context Menu Styles */
+  .context-menu {
+    position: fixed;
+    background-color: var(--popup-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 0.4rem;
+    padding: 0.5rem 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+  }
+  
+  .context-menu-item {
+    padding: 0.5rem 1rem;
+    transition: background-color 0.2s ease;
+  }
+  
+  .context-menu-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  /* Popup Styles */
+  .popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.9);
+    background-color: var(--popup-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 0.8rem;
+    padding: 1.5rem;
+    z-index: 1001;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    max-width: 90%;
+    width: 300px;
+    backdrop-filter: blur(15px);
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    opacity: 0;
+    visibility: hidden;
+  }
+  
+  .popup.active {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .popup-title {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: var(--text-color);
+  }
+  
+  .popup-input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    border-radius: 0.3rem;
+    transition: all 0.3s ease;
+  }
+  
+  .popup-input:focus {
+    outline: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: var(--text-color);
+  }
+  
+  .popup-input::selection {
+    background-color: var(--mint-green);
+    color: #000000;
+  }
+  
+  .popup-actions {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .popup-btn {
+    padding: 0.5rem 1rem;
+    margin-left: 0.5rem;
+    border: none;
+    border-radius: 0.3rem;
+    transition: all 0.3s ease;
+    font-weight: bold;
+  }
+  
+  .popup-btn-cancel {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: var(--text-color);
+  }
+  
+  .popup-btn-confirm {
+    background-color: var(--accent-color);
+    color: var(--text-color);
+  }
+  
+  .popup-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+    backdrop-filter: blur(5px);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+  }
+  
+  .overlay.active {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  @media (max-width: 768px) {
+    .chat-messages {
+      padding: 1rem;
+    }
+    .message {
+      max-width: 90%;
+      font-size: 0.85rem;
+    }
+    .chat-input {
+      padding: 0.8rem;
+    }
+    .chat-input-wrapper {
+      width: 90%;
+    }
+    .conversation-menu {
+      width: 100%;
+    }
+  }
+  
+  /* Ensure the cursor is always the custom cursor */
+  * {
+    cursor: url('./image/cursor.png'), auto !important;
+  }
+  
+  /* Override cursor for text inputs and textareas */
+  input[type="text"], textarea {
+    cursor: url('cursor.png'), text !important;
+  }
+  
+  /* Hide the default text cursor */
+  input[type="text"], textarea {
+    caret-color: transparent;
+  }
+  
+  /* Create a custom caret using a pseudo-element */
+  input[type="text"]::after, textarea::after {
+    content: '|';
+    position: absolute;
+    color: var(--text-color);
+    animation: blink 1s step-end infinite;
+  }
+  
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+  
+  .message pre {
+      background-color: #1e1e1e;
+      border-radius: 4px;
+      padding: 10px;
+      overflow-x: auto;
+  }
+  
+  .message code {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.9em;
+  }
+  
+  .message ul, .message ol {
+      margin-left: 20px;
+  }
+  
+  .message p {
+      margin-bottom: 10px;
+  }
+  textarea {
+      cursor: url('./image/cursor.png'), text !important;
+  }
+  
+  </style>
+  </head>
+  <body>
+    <div class="chat-container">
+      <button class="menu-btn" id="menuBtn" aria-label="Open conversation menu">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+      <div class="chat-messages" id="chatMessages"></div>
+      <form id="chatForm" class="chat-input">
+        <div class="chat-input-wrapper">
+          <textarea id="userInput" placeholder="" spellcheck="false"autocomplete="off" aria-label="Chat input" required></textarea>
+          <button type="submit" class="send-btn">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M2 21L23 12L2 3V10L17 12L2 14V21Z" fill="currentColor"/>
+            </svg>
+          </button>
+        </div>
+      </form>
+    </div>
+  
+    <div class="conversation-menu" id="conversationMenu">
+      <div class="menu-header">
+        <h2 class="menu-title">CONVERSATIONS</h2>
+      </div>
+      <div class="menu-actions">
+        <button class="menu-btn-action" id="newConversationBtn">New Conversation</button>
+      </div>
+      <ul class="conversation-list" id="conversationList">
+        <!-- Conversation items will be dynamically added here -->
+      </ul>
+    </div>
+  
+    <div id="contextMenu" class="context-menu" style="display: none;">
+      <div class="context-menu-item" id="renameConversation">Rename</div>
+      <div class="context-menu-item" id="deleteConversation">Delete</div>
+    </div>
+  
+    <div id="overlay" class="overlay"></div>
+  
+    <div id="renamePopup" class="popup">
+      <h3 class="popup-title">Rename Conversation</h3>
+      <input type="text" id="renameInput" class="popup-input" placeholder="New name"spellcheck="false"autocomplete="off">
+      <div class="popup-actions">
+        <button id="cancelRename" class="popup-btn popup-btn-cancel">Cancel</button>
+        <button id="confirmRename" class="popup-btn popup-btn-confirm">Rename</button>
+      </div>
+    </div>
+  
+    <div id="deletePopup" class="popup">
+      <h3 class="popup-title">Delete Conversation</h3>
+      <div class="popup-actions">
+        <button id="cancelDelete" class="popup-btn popup-btn-cancel">Cancel</button>
+        <button id="confirmDelete" class="popup-btn popup-btn-confirm">Delete</button>
+      </div>
+    </div>
+  
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+      // Sélection des éléments du DOM
+      const chatMessages = document.getElementById('chatMessages');
+      const chatForm = document.getElementById('chatForm');
+      const userInput = document.getElementById('userInput');
+      const menuBtn = document.getElementById('menuBtn');
+      const conversationMenu = document.getElementById('conversationMenu');
+      const conversationList = document.getElementById('conversationList');
+      const newConversationBtn = document.getElementById('newConversationBtn');
+      const contextMenu = document.getElementById('contextMenu');
+      const renameConversationBtn = document.getElementById('renameConversation');
+      const deleteConversationBtn = document.getElementById('deleteConversation');
+      const renamePopup = document.getElementById('renamePopup');
+      const deletePopup = document.getElementById('deletePopup');
+      const renameInput = document.getElementById('renameInput');
+      const confirmRenameBtn = document.getElementById('confirmRename');
+      const cancelRenameBtn = document.getElementById('cancelRename');
+      const confirmDeleteBtn = document.getElementById('confirmDelete');
+      const cancelDeleteBtn = document.getElementById('cancelDelete');
+      const overlay = document.getElementById('overlay');
+    
+      let conversations = [];
+  let currentConversation = null;
+  let selectedConversation = null;
+  
+  function loadConversations() {
+      const savedConversations = localStorage.getItem('conversations');
+      if (savedConversations) {
+          conversations = JSON.parse(savedConversations);
+          updateConversationList();
+      }
+  }
+  
+  loadConversations();
+  
+  function saveConversations() {
+      localStorage.setItem('conversations', JSON.stringify(conversations));
+  }
+  
+  function addMessage(content, isUser = false) {
+      const messageDiv = document.createElement('div');
+      messageDiv.classList.add('message', isUser ? 'user-message' : 'ai-message');
+  
+      const renderedContent = marked.parse(content);
+  
+      messageDiv.innerHTML = renderedContent;
+      chatMessages.appendChild(messageDiv);
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+  
+      if (typeof hljs !== 'undefined') {
+          messageDiv.querySelectorAll('pre code').forEach((block) => {
+              hljs.highlightElement(block);
+          });
+      }
+  }
+  
+  async function getAIResponse(userMessage) {
+      const response = await fetch('/chat?source=chatgpt', {
+          method: 'POST',
+          headers: {
+              'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ message: userMessage })
+      }).then(response => response.json());
+  
+      console.log(response.response);
+      return response.response;
+  }
+  
+  chatForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const message = userInput.value.trim();
+      if (message) {
+          addMessage(message, true);
+          userInput.value = '';
+          userInput.style.height = 'auto';
+          userInput.focus();
+  
+          const response = await getAIResponse(message);
+          addMessage(response, false);
+  
+          if (currentConversation) {
+              currentConversation.messages.push({ user: message, ai: response });
+          } else {
+              currentConversation = {
+                  id: Date.now(),
+                  name: `Conversation ${conversations.length + 1}`,
+                  messages: [{ user: message, ai: response }]
+              };
+              conversations.unshift(currentConversation);
+          }
+          updateConversationList();
+          saveConversations();
+      }
+  });
+  
+  userInput.addEventListener('input', function() {
+      this.style.height = 'auto';
+      this.style.height = `${this.scrollHeight}px`;
+  });
+  
+  function toggleMenu() {
+      conversationMenu.classList.toggle('open');
+  }
+  
+  function updateConversationList() {
+      conversationList.innerHTML = '';
+      conversations.forEach(conv => {
+          const li = document.createElement('li');
+          li.classList.add('conversation-item');
+          li.innerHTML = `<div>${conv.name}</div>`;
+          li.dataset.id = conv.id;
+          li.addEventListener('click', () => loadConversation(conv));
+          li.addEventListener('contextmenu', e => showContextMenu(e, conv));
+          conversationList.appendChild(li);
+      });
+      saveConversations();
+  }
+  
+  function loadConversation(conversation) {
+      currentConversation = conversation;
+      chatMessages.innerHTML = '';
+      conversation.messages.forEach(msg => {
+          addMessage(msg.user, true);
+          addMessage(msg.ai, false);
+      });
+      toggleMenu();
+  }
+  
+  function showContextMenu(e, conversation) {
+      e.preventDefault();
+      selectedConversation = conversation;
+      contextMenu.style.display = 'block';
+      contextMenu.style.left = `${e.pageX}px`;
+      contextMenu.style.top = `${e.pageY}px`;
+  }
+  
+  function hideContextMenu() {
+      contextMenu.style.display = 'none';
+  }
+  
+  function showPopup(popup) {
+      overlay.classList.add('active');
+      popup.classList.add('active');
+  }
+  
+  function hidePopup(popup) {
+      overlay.classList.remove('active');
+      popup.classList.remove('active');
+  }
+  
+  menuBtn.addEventListener('click', toggleMenu);
+  
+  newConversationBtn.addEventListener('click', () => {
+      currentConversation = {
+          id: Date.now(),
+          name: `Conversation ${conversations.length + 1}`,
+          messages: []
+      };
+      conversations.unshift(currentConversation);
+      updateConversationList();
+      chatMessages.innerHTML = '';
+      toggleMenu();
+  });
+  
+  renameConversationBtn.addEventListener('click', () => {
+      hideContextMenu();
+      renameInput.value = selectedConversation.name;
+      showPopup(renamePopup);
+  });
+  
+  deleteConversationBtn.addEventListener('click', () => {
+      hideContextMenu();
+      showPopup(deletePopup);
+  });
+  
+  confirmRenameBtn.addEventListener('click', () => {
+      const newName = renameInput.value.trim();
+      if (newName) {
+          selectedConversation.name = newName;
+          updateConversationList();
+      }
+      hidePopup(renamePopup);
+  });
+  
+  cancelRenameBtn.addEventListener('click', () => hidePopup(renamePopup));
+  
+  confirmDeleteBtn.addEventListener('click', () => {
+      conversations = conversations.filter(conv => conv.id !== selectedConversation.id);
+      if (currentConversation && currentConversation.id === selectedConversation.id) {
+          currentConversation = null;
+          chatMessages.innerHTML = '';
+      }
+      updateConversationList();
+      hidePopup(deletePopup);
+  });
+  
+  cancelDeleteBtn.addEventListener('click', () => hidePopup(deletePopup));
+  
+  document.addEventListener('click', e => {
+      if (!contextMenu.contains(e.target)) {
+          hideContextMenu();
+      }
+  });
+  
+    document.addEventListener('keydown', (event) => {
+        if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
+            event.preventDefault();
+            window.parent.postMessage({ key: event.key }, '*');
+        }
+    });
+</script>
+
+  </body>
+  </html>

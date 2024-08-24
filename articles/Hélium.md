@@ -1,0 +1,7 @@
+L'**hélium** est un élément chimique de symbole **He** et de numéro atomique 2. C'est un gaz noble incolore, inodore, insipide, non toxique, inerte et monovalent, présent en quantité extrêmement faible dans l'atmosphère terrestre. L'hélium est le deuxième élément le plus abondant dans l'univers après l'hydrogène. Il est principalement produit par la décomposition radioactive naturelle de certains minéraux radioactifs comme l'uranium et le thorium.
+
+En raison de sa nature non réactive et de son point d'ébullition très bas, l'hélium est largement utilisé dans divers domaines. Par exemple, il est utilisé pour remplir des ballons et dirigeables en raison de sa légèreté et de son inertie. De plus, l'hélium est largement utilisé dans l'industrie pour refroidir les aimants supraconducteurs, les réacteurs nucléaires et les équipements de soudure à l'arc.
+
+En médecine, l'hélium est parfois utilisé en mélange avec de l'oxygène pour aider à traiter les patients atteints de maladies pulmonaires obstructives en raison de ses propriétés physiques uniques. De plus, l'hélium est également utilisé en cryogénie pour maintenir des températures extrêmement basses, ce qui le rend essentiel pour la recherche scientifique et les applications technologiques avancées.
+
+En résumé, l'hélium est un élément chimique précieux et polyvalent qui joue un rôle important dans de nombreux secteurs de la société moderne en raison de ses propriétés uniques et de ses applications diverses.

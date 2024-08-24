@@ -1,0 +1,9 @@
+La Biocytométrie est un domaine interdisciplinaire qui combine la biologie et la cytométrie pour étudier les cellules vivantes. La cytométrie est une technique qui permet d'analyser les propriétés physiques et chimiques des cellules en passant un faisceau de lumière à travers un échantillon et en mesurant la lumière dispersée.
+
+En Biocytométrie, cette technique est utilisée pour étudier des paramètres tels que la taille, la forme, la complexité, la structure interne, et la détection des molécules spécifiques à l'intérieur des cellules. Ces analyses permettent de caractériser différents types de cellules, de comprendre leur fonctionnement, leur développement et leur réponse à différents stimuli.
+
+La Biocytométrie joue un rôle important dans de nombreux domaines de la recherche biomédicale, notamment en immunologie, en cancérologie, en neurologie, en microbiologie et en génétique. Elle est utilisée pour étudier la prolifération cellulaire, l'apoptose, la différenciation cellulaire, les interactions cellulaires, et bien d'autres processus biologiques.
+
+En outre, la Biocytométrie est également utilisée en médecine clinique pour le diagnostic et le suivi de certaines maladies. Elle permet par exemple de détecter des marqueurs cellulaires spécifiques associés à des pathologies, de monitorer la progression de certaines maladies et d'évaluer l'efficacité des traitements.
+
+En résumé, la Biocytométrie est un outil puissant et polyvalent qui permet d'explorer et de comprendre le monde complexe des cellules vivantes, ouvrant ainsi de nouvelles perspectives dans la recherche biomédicale et la médecine.
